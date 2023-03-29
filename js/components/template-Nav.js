@@ -4,8 +4,8 @@ const templateNav = `
     <div class="logo">
     <a class="pularNavegacao" href="#conteudoPrincipal">Pular para Conteúdo Principal</a>
     <a href="https://univesp.br/" target="_blank">
-        <img src="https://apps.univesp.br/common/colorida-positiva.svg" alt="Link para site institucional. Logotipo da universidade formado pela palavra Univesp, sendo a letra V estilizada.">
-        <!-- outras opções de img src: colorida-negativa.svg, traco-positiva.svg, traco-negativa.svg -->
+        <img src="https://apps.univesp.br/common/colorida-negativa.svg" alt="Link para site institucional. Logotipo da universidade formado pela palavra Univesp, sendo a letra V estilizada.">
+        <!-- outras opções de img src: colorida-positiva.svg, traco-positiva.svg, traco-negativa.svg -->
     </a>
     </div>
     <!-- Compartilhamento -->

@@ -1,3 +1,143 @@
 body {
   background-color: #FFF;
+  font-family: 'Raleway', sans-serif;
+  overflow-x: hidden;
+}
+
+button{
+  outline: none;
+  border: 0;
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+  color: #2D2264;
+  font-weight: bold;
+}
+a:hover{
+  text-decoration: none;
+  color: #2D2264;
+}
+
+/* ------- HEADER ------- */
+
+.header-container{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-left: 10%;
+}
+
+.header-container > img{
+  width: 30%;
+}
+
+.header-title{
+  margin-left: 4%;
+}
+
+.header-title > h1{
+  font-size: 34pt;
+  color: #2D2264;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.header-title > hr{
+  border: 6px solid #DF5A73;
+  border-radius: 20px;
+  width: 120%;
+}
+
+hr.end-header{
+  margin-top: 50px;
+  border: 13px solid #CBD0CF;
+}
+
+/* ------- FIM HEADER ------- */
+
+
+/* ------- CONTEÚDO 1 ------- */
+
+#conteudo1, #conteudo2, #conteudo3, #conteudo5{
+  padding-top: 0;
+  display: flex;
+  align-items: center;
+}
+
+#conteudo6{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.conteudo-content{
+  width: 60%;
+}
+
+.conteudo-content > h3{
+  text-transform: uppercase;
+  color: #DF5A73;
+  font-weight: 800;
+  font-size: 36px;
+}
+
+.next-button{
+  width: 20%;
+  height: 50px;
+  margin-left: 10%;
+  border: 1px solid #DF5A73;
+  background-color: #fff;
+  text-transform: uppercase;
+  color: #2D2264;
+  font-weight: 800;
+  font-size: 27px;
+}
+
+.next-button2{
+  width: 40%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #DF5A73;
+  background-color: #fff;
+  text-transform: uppercase;
+  color: #2D2264;
+  font-weight: 800;
+  font-size: 27px;
+}
+
+.next-button3{
+  width: 20%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #DF5A73;
+  background-color: #fff;
+  text-transform: uppercase;
+  color: #2D2264;
+  font-weight: 800;
+  font-size: 27px;
+}
+
+.button-container{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.imagem-conteudo-container{
+  width: 50%;
+  margin-left: 10%;
+}
+
+.imagem-conteudo-container > img{
+  width: 100%;
+}
+
+.grafico-img{
+  width: 100%;
+  position: relative;
+  bottom: 150px;
 }
