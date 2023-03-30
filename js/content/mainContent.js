@@ -197,7 +197,299 @@ const mainContent = `
         </div>
 
         <div class="button-container" >
-            <button class="next-button3" onclick="replace('conteudo6', 'conteudo7')">Avançar</button>
+            <button class="next-button3" onclick="replace('conteudo9', 'conteudo10')">Avançar</button>
+        </div>
+    </div>
+
+
+    <!-- CONTEUDO 10 -->
+    <div class="container" id="conteudo10" style="display: none">
+        <div class="conteudo-content9">
+            <h3>Tendências de mercado e habilidades</h3>
+
+            <p>Agora vamos conhecer as tendências de mercado.</p>
+        </div>
+
+        <div class="conteudo9-container">
+
+            <div class="bloco-esquerda">
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num">
+                        1
+                    </div>
+
+                    <div class="bloco-content">
+                    
+                        <span class="bloco-title">Terceirização</span>
+
+                        <span class="bloco-text">Haverá maior flexibilização dos contratos trabalhistas, como as opções de meio período, temporário e free lancer.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num">
+                        2
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title">Funcionário Remoto</span>
+
+                        <span class="bloco-text">O home office, já adotado por diversas empresas, vai ser mais comum, sobretudo em megalópoles como São Paulo ou Rio de Janeiro.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num">
+                        3
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title">Dinamismo</span>
+
+                        <span class="bloco-text">Mudar de emprego com mais rapidez, e até de carreira, vai ser a realidade dos adolescentes de hoje. PAra isso, será preciso estudar sempre.</span>
+                    
+                    </div>
+                
+                </div>
+            
+            </div>
+
+
+            <div class="bloco-direita">
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num">
+                        4
+                    </div>
+
+                    <div class="bloco-content">
+                    
+                        <span class="bloco-title">Áreas Promissoras</span>
+
+                        <span class="bloco-text">Bem-estar, meio ambiente, longevidade e inovação serão os principais temas que nortearão os futuros profissionais brasileiros.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num">
+                        5
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title">Jornada</span>
+
+                        <span class="bloco-text">Para continuar estudando ao longo da vida e usufruindo do tempo livre, as pessoas precisarão de jornadas menores.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num">
+                        6
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title">Profissões</span>
+
+                        <span class="bloco-text">Novas profissões vão surgir, como o gerente de ecorrelações, que irá desenvolver projetos ambientais; e o conselheiro de aposentadoria.</span>
+                    
+                    </div>
+                
+                </div>
+            
+            </div>
+        
+        </div>
+
+        <span class="fonte-span">Fonte: Marco Pochmann (Ipea), Adriana Gomes (ESPM), Renata Giovinazzo (Profuturo/Fia), Heliani Santos (FEA/USP), Instituto de Estudos do Trabalho de Bonn (IZA)</span>
+
+        <br /><br />
+
+        <p>Para tanto, algumas habilidades serão valorizadas. Vamos conhecer?</p>
+
+
+        <div class="conteudo9-container">
+
+            <div class="bloco-esquerda">
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num2">
+                        1
+                    </div>
+
+                    <div class="bloco-content">
+                    
+                        <span class="bloco-title2">Superformação</span>
+
+                        <span class="bloco-text">A formação no ensino superioro será o básico. <br/> Pós-graduação, cursos técnicos, especializações, participações em seminários e workshops serão vitais para acompanhar as constantes mudanças.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num2">
+                        2
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title2">Multicultural</span>
+
+                        <span class="bloco-text">Mais que falar outras línguas, o profissional que tiver viajado e interagido com pessoas de outras culturas será mais apreciado pelo mercado. Assim como ler, ouvir músicas novas, se informar e estar aberto ao novo e ao diferente.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num2">
+                        3
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title2">Útil e Inovador</span>
+
+                        <span class="bloco-text">Inovações que visam contribuir com o próximo, como um produto que auxilie comunidades carentes ou um serviço que diminua a burocracia de uma empresa, serão mais valorizadas.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num2">
+                        4
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title2">Pensar Digitalmente</span>
+
+                        <span class="bloco-text">A vida acontece na frente do computador. Quem não souber usar ferramentas básicas de informática e de internet tende a ficar excluído.</span>
+                    
+                    </div>
+                
+                </div>
+            
+            </div>
+
+
+            <div class="bloco-direita">
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num2">
+                        5
+                    </div>
+
+                    <div class="bloco-content">
+                    
+                        <span class="bloco-title2">Transdisciplinar</span>
+
+                        <span class="bloco-text">A capacidade de unir diferentes competências de áreas que aparentemente não se assemelham e dar um novo significado a elas ajudará a arejar a criatividade das empresas.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num2">
+                        6
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title2">Autoadministração</span>
+
+                        <span class="bloco-text">Saber lidar com a burocracia do País e gerir as próprias contas vai ser uma questão de sobreviência. Muitos brasileiros terão que aprender a se organizar com a aposentadoria, o plano de saúde, o transporte e os custos de alimentação.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num2">
+                        7
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title2">Empreendedorismo</span>
+
+                        <span class="bloco-text">O Brasil já é um dos campeões em empreendedorismo. <br /> O conceito, entretanto, deverá fazer parte da vida de todos, e não só dos que abrem uma empresa. Hoje, o líder empreendedor já é admirado e disputado no mercado.</span>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="bloco-item">
+
+                    <div class="bloco-num2">
+                        8
+                    </div>
+
+                    <div class="bloco-content">
+
+                        <span class="bloco-title2">Competências Emocionais</span>
+
+                        <span class="bloco-text">Num mundo cada vez mais informatizado, o caputal humano fará toda a diferença. E isso significa lidar com o outro, ter uma boa comunicação, saber se colocar e ter um espírito cooperativo.</span>
+                    
+                    </div>
+                
+                </div>
+            
+            </div>
+        
+        </div>
+
+
+        <div class="button-container" >
+            <button class="next-button3" onclick="replace('conteudo10', 'conteudo11')">Avançar</button>
+        </div>
+    </div>
+
+
+    <!-- CONTEUDO 11 -->
+    <div class="container" id="conteudo11" style="display: none">
+        <div class="conteudo-content">
+            <h3>O Profissional do Futuro</h3>
+
+            <p>Para finalizar, vamos conhecer um pouco sobre o profissional do futuro. Assista a este vídeo.</p>
+
+            <p>Você pode acessar a transcrição clicando <a target="_blank" href="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/transcricoes/3%C2%BA%20Vi%CC%81deo%20-%20Transcric%CC%A7a%CC%83o%20-%20O%20Profissional%20do%20Futuro.pdf">aqui</a>.</p>
+
+            <div class="button-container">
+             <button class="next-button2" onclick="replace('conteudo11', 'conteudo12')">Avançar</button>
+            </div>
+        </div>
+
+        <div class="imagem-conteudo-container">
+            <iframe width="100%" height="260px" src="https://www.youtube.com/embed/9G5mS_OKT0A"></iframe>
         </div>
     </div>
 `;
