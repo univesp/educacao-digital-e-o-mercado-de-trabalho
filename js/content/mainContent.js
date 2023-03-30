@@ -128,4 +128,80 @@ const mainContent = `
             <iframe width="100%" height="260px" src="https://www.youtube.com/embed/Eu5S8MBLKWE"></iframe>
         </div>
     </div>
+
+
+    <!-- CONTEUDO 8 -->
+    <div class="container" id="conteudo8" style="display: none">
+
+        <div class="conteudo8-container">
+            <div class="conteudo-content">
+                <h3>Mercado de Trabalho</h3>
+
+                <p>Mercado de trabalho é uma expressão utilizada pra se referir às formas de trabalho que possam existir, sendo remunerados de alguma forma, seja trabalho manual ou intelectual. As pessoas vendem sua força de trabalho por um salário, que pode ser em dinheiro, moradia, bonificação ou outra forma de recompensa pelo trabalho exercido.​​</p>
+
+                <p>Podemos dizer que o mercado de trabalho é dividido em 3 setores:</p>            
+            </div>
+
+            <div class="imagem-conteudo-container">
+                <img src="/assets/mercado_trabalho.jpeg" alt="">
+            </div>
+        </div>
+
+        <div class="conteudo8-container">
+            <div class="imagem-conteudo-container" id="imgConteudo8-2">
+                <img src="/assets/primario.jpeg" alt="">
+            </div>
+
+            <div class="conteudo-content">
+                <p class="content-conteudo8"><strong>Primário </strong>- Lida diretamente com a matéria-prima, como a agricultura, a pecuária e a extração mineral e vegetal;</p>            
+            </div>
+        </div>
+
+        <div class="conteudo8-container">
+            <div class="conteudo-content">
+                <p class="content-conteudo8"><strong>Secundário </strong>- Lida com a modificação da matéria-prima, construindo objetos utilizáveis, como as indústrias e a construção civil;</p>            
+            </div>
+
+            <div class="imagem-conteudo-container" id="imgConteudo8-3">
+                <img src="/assets/secundario.jpeg" alt="">
+            </div>
+        </div>
+
+        <div class="conteudo8-container">
+            <div class="imagem-conteudo-container" id="imgConteudo8-4">
+                <img src="/assets/terciario.jpeg" alt="">
+            </div>
+
+            <div class="conteudo-content">
+                <p class="content-conteudo8"><strong>Terciário </strong>- Relacionadas a prestação de serviços, como: bancos, hospitais, escolas, mercados, ou seja, quando a forma de trabalho lida com pessoas e não com os objetos como principal foco de atuação.</p>  
+                    
+                <div class="button-container">
+                    <button class="next-button2" onclick="replace('conteudo8', 'conteudo9')">Avançar</button>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+
+    <!-- CONTEUDO 9 -->
+    <div class="container" id="conteudo9" style="display: none">
+        <div class="conteudo-content9">
+            <h3>Era Digital</h3>
+
+            <p>A era digital chegou e chegou para ficar em todos os sentidos e em todos os setores.</p>
+
+            <p>Quando nos referimos à carreira no mercado de trabalho, paramos e pensamos o que fazer: será que conseguirei vencer nesse mercado tão competitivo?</p>
+
+            <p>Se unirmos a era digital e a carreira de trabalho, logo abrimos o leque de opções e de carreiras que antes era executadas de maneira manual e hoje são realizadas por meios digitais. Logo, cabe a nós aprender e nos adequar às novas funções que o mercado de trabalho exige. Dessa forma entrarmos de vez na era digital.</p>
+        </div>
+
+        <div class="button-container" >
+            <button class="next-button3" onclick="replace('conteudo6', 'conteudo7')">Avançar</button>
+        </div>
+    </div>
 `;
+
+
+
+
