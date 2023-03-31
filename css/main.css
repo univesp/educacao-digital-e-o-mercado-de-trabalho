@@ -66,7 +66,7 @@ hr.end-header{
   align-items: center;
 }
 
-#conteudo6, #conteudo8, #conteudo9, #conteudo10{
+#conteudo6, #conteudo8, #conteudo9, #conteudo10, #testeFinal{
   display: flex;
   flex-direction: column;
 }
@@ -261,4 +261,101 @@ hr.end-header{
   margin-right: auto;
   margin-left: auto;
   margin-top: 40px;
+}
+
+hr.teste-hr{
+  margin-top: 25px;
+  border: 1px solid #CBD0CF;
+  width: 30%;
+}
+
+.options-container{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.teste-container{
+  margin-top: 50px;
+}
+
+.teste-item{
+  display: flex;
+  gap: 50px;
+  justify-content: space-between;
+}
+.teste-item:not(:first-child){
+  margin-top: 15px;
+}
+
+.teste-inputs-container{
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.teste-inputs-item{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.teste-inputs-item > input{
+  cursor: pointer;
+  width: 22px;
+  height: 22px;
+  position: relative;
+  top: -5px;
+}
+
+.teste-option-title{
+  width: 70%;
+}
+
+.teste-option-title > span{
+  font-weight: bold;
+}
+
+.button-teste{
+  margin-top: 50px;
+  background-color: #DF5A73;
+  color: #FFF;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 24%;
+  height: 42px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 24px;
+}
+
+.devolucao-teste{
+  margin-top: 50px;
+}
+
+.resultadoTitle{
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 25px;
+}
+
+.pontuacaoTeste{
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 25px;
+}
+
+.pontuacaoTeste > span{
+  color: #2D2264;
+}
+
+.fonte-resultado{
+  display: block;
+  margin-top: 30px;
 }

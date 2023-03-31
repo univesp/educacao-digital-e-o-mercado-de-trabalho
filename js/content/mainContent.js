@@ -484,13 +484,117 @@ const mainContent = `
             <p>Você pode acessar a transcrição clicando <a target="_blank" href="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/transcricoes/3%C2%BA%20Vi%CC%81deo%20-%20Transcric%CC%A7a%CC%83o%20-%20O%20Profissional%20do%20Futuro.pdf">aqui</a>.</p>
 
             <div class="button-container">
-             <button class="next-button2" onclick="replace('conteudo11', 'conteudo12')">Avançar</button>
+             <button class="next-button2" onclick="replace('conteudo11', 'testeFinal')">Avançar</button>
             </div>
         </div>
 
         <div class="imagem-conteudo-container">
             <iframe width="100%" height="260px" src="https://www.youtube.com/embed/9G5mS_OKT0A"></iframe>
         </div>
+    </div>
+
+
+    <!-- TESTE FINAL -->
+    <div class="container" id="testeFinal" style="display: none">
+        <div class="conteudo-content9">
+            <h3>Teste Final</h3>
+
+            <p>Agora que você já conheceu um pouco mais sobre as tendências de mercado sobre as habilidades que são mais valorizadas às empresas e sobre o perfil do profissional do futuro, vamos entender o que é Empregabilidade.</p>
+
+            <p>Trata-se da capacidade de desenvolver determinadas competências, habilidades e conhecimentos do interesse do mercado de trabalho e que são importantes e atraentes para as empresas.</p>
+
+            <p>Você quer conhecer seu grau de empregabilidade? É só realizar este teste.</p>
+
+            <p>Para que o resultado seja fidedigno responda a cada afirmação com a máxima honestidade, retratando a sua situação atual, e não a ideal.</p>            
+        </div>
+
+        <hr class="teste-hr" />
+
+        <div class="options-container">
+            <span>S = SIM</span>
+            <span>N = NÃO</span>
+            <span>+ - = MAIS OU MENOS</span>
+        </div>
+
+        <div class="teste-container" id="testeContainer">
+
+            <!-- ITEM TESTE 1 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>1. </span>
+                    Eu me envolvo completamente no meu trabalho. No meu emprego, eu trabalho scomo se o negócio fosse meu.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox1" type="checkbox" name="inputItem[1][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox1" type="checkbox" name="inputItem[1][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox1" type="checkbox" name="inputItem[1][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 2 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>2. </span>
+                    Sou fluente na língua inglesa (conversação, leitura, escrita).
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox2" type="checkbox" name="inputItem[2][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox2" type="checkbox" name="inputItem[2][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox2" type="checkbox" name="inputItem[2][]" value="M" />
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+
+        <button class="button-teste" onclick="verifica()">Gerar Pontuação</button>
+
+        <div class="devolucao-teste" id="resultadoTeste" style="display: none;">
+
+            <span class="pontuacaoTeste">Sua pontuação: <span class="qtdeTeste" id="qtde-teste"></span>.</span>
+
+            <span class="resultadoTitle">Sua Avaliação sobre empregabilidade</span>
+
+            <p><strong>De 18 a 20 pontos: </strong>Parabéns! O desemprego não aflige você, porque sua empregabilidade está no auge. Você sabe investir em você e se destacar no trabalho, tem um bom networking extraempresa, está atento ao que ocorre ao seu redor e às tendências do mercado. Se viesse a perder o emprego, rapidamente conseguiria outra colocação.</p>
+
+            <p><strong>De 15 a 17,5 pontos: </strong>Sua empregabilidade está entre média e boa. Você procura se atualizar e busca ser reconhecido pela empresa, embora, talvez, nem sempre o consiga. Demonstra interesse pelo que ocorre no mercado, embora isso, necessariamente, não signifique que queira trocar de emprego. É provável que você tenha que melhorar seu networking. Veja as questões onde você não pontuou, ou obteve meio ponto, pois elas podem dar-lhe boas indicações do que necessita melhorar.</p>
+
+            <p><strong>De 12 a 14,5 pontos: </strong>Sua empregabilidade é apenas regular. Apresenta várias brechas que podem dificultar seu trabalho ou sua garantia de emprego. Procure analisar como anda seu aprimoramento profissional, seu relacionamento com entidades externas e profissionais da área e, sobretudo, como você está vendendo seu serviço dentro da própria empresa. Veja as questões onde você não pontuou, ou obteve meio ponto, pois elas podem dar-lhe boas indicações do que necessita melhorar.</p>
+
+            <p><strong>Abaixo de 12 pontos: </strong>Sua empregabilidade é baixa. Talvez você ande desmotivado ou não esteja dando importância à sua carreira, mas existem muitas brechas que precisam ser ajustadas. Não subestime seu trabalho, sua empresa ou o mercado de trabalho. Se você trabalha numa organização onde não existe estabilidade de emprego, você tem que investir forte em si e em sua carreira. Boas colocações requerem trabalho intenso e continuado, aperfeiçoamento contínuo, e uma boa rede de contatos. Veja as questões onde você não pontuou, ou obteve meio ponto, pois elas podem dar-lhe boas indicações do que necessita melhorar.</p>
+
+            <span class="fonte-resultado">Fonte: Texto extraído e condensado do livro “35 Testes para Avaliar suas Habilidades Profissionais”, de Ernesto Artur Berg, Juruá Editora, no formato de e-book ou livro físico.</span>
+
+        </div>
+
+        <div class="button-container" id="teste-button" style="display: none;">
+            <button class="next-button3" onclick="replace('testeFinal', 'fimRea')">Avançar</button>
+        </div>
+
+        
     </div>
 `;
 
