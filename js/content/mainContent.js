@@ -567,6 +567,456 @@ const mainContent = `
                     </div>
                 </div>
             </div>
+
+            <!-- ITEM TESTE 3 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>3. </span>
+                    Adapto-me rapidamente a todos os tipos de mudanças na empresa.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox3" type="checkbox" name="inputItem[3][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox3" type="checkbox" name="inputItem[3][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox3" type="checkbox" name="inputItem[3][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 4 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>4. </span>
+                    A profissão que exerço está totalmente de acordo com minha vocação.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox4" type="checkbox" name="inputItem[4][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox4" type="checkbox" name="inputItem[4][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox4" type="checkbox" name="inputItem[4][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 5 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>5. </span>
+                    Estou sempre criando desafios profissionais para mim mesmo.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox5" type="checkbox" name="inputItem[5][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox5" type="checkbox" name="inputItem[5][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox5" type="checkbox" name="inputItem[5][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 6 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>6. </span>
+                    Faço pelo menos um curso de curta duração (de 8 a 24 horas) a cada seis meses.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox6" type="checkbox" name="inputItem[6][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox6" type="checkbox" name="inputItem[6][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox6" type="checkbox" name="inputItem[6][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 7 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>7. </span>
+                    Estou sempre atento às oportunidades de trabalho que surgem no mercado, ligadas à minha profissão.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox7" type="checkbox" name="inputItem[7][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox7" type="checkbox" name="inputItem[7][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox7" type="checkbox" name="inputItem[7][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 8 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>8. </span>
+                    No trabalho que faço atualmente na empresa, sou substituível a qualquer momento.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox8" type="checkbox" name="inputItem[8][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox8" type="checkbox" name="inputItem[8][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox8" type="checkbox" name="inputItem[8][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 9 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>9. </span>
+                    Tenho muita iniciativa e estou sempre inovando no meu trabalho.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox9" type="checkbox" name="inputItem[9][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox9" type="checkbox" name="inputItem[9][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox9" type="checkbox" name="inputItem[9][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 10 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>10. </span>
+                    Cuido da minha aparência e utilizo roupas adequadas ao ambiente em que trabalho.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox10" type="checkbox" name="inputItem[10][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox10" type="checkbox" name="inputItem[10][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox10" type="checkbox" name="inputItem[10][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 11 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>11. </span>
+                    Tenho uma rede de contatos e relacionamentos profissionais fora da empresa que podem abrir-me oportunidades de trabalho rapidamente.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox11" type="checkbox" name="inputItem[11][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox11" type="checkbox" name="inputItem[11][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox11" type="checkbox" name="inputItem[11][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 12 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>12. </span>
+                    Estou sempre me atualizando e fazendo cursos de aperfeiçoamento de média e longa duração em minha área profissional.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox12" type="checkbox" name="inputItem[12][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox12" type="checkbox" name="inputItem[12][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox12" type="checkbox" name="inputItem[12][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 13 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>13. </span>
+                    Tenho disponibilidade para viajar ou mudar de cidade, se necessário for.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox13" type="checkbox" name="inputItem[13][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox13" type="checkbox" name="inputItem[13][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox13" type="checkbox" name="inputItem[13][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 14 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>14. </span>
+                    Tenho facilidade de me relacionar com qualquer tipo de pessoa.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox14" type="checkbox" name="inputItem[14][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox14" type="checkbox" name="inputItem[14][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox14" type="checkbox" name="inputItem[14][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 15 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>15. </span>
+                    Se eu fosse demitido hoje, teria uma nova colocação no máximo em dois ou três meses.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox15" type="checkbox" name="inputItem[15][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox15" type="checkbox" name="inputItem[15][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox15" type="checkbox" name="inputItem[15][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 16 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>16. </span>
+                    Eu (e não minha empresa) sou o maior responsável pelo desenvolvimento da minha carreira e da minha profissão.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox16" type="checkbox" name="inputItem[16][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox16" type="checkbox" name="inputItem[16][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox16" type="checkbox" name="inputItem[16][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 17 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>17. </span>
+                    Tenho facilidade de vender minhas ideias aos outros.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox17" type="checkbox" name="inputItem[17][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox17" type="checkbox" name="inputItem[17][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox17" type="checkbox" name="inputItem[17][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 18 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>18. </span>
+                    Sinto-me inibido quando tenho que dar palestras e enfrentar público.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox18" type="checkbox" name="inputItem[18][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox18" type="checkbox" name="inputItem[18][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox18" type="checkbox" name="inputItem[18][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 19 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>19. </span>
+                    Trabalhar em equipe e interagir com pessoas é um dos meus pontos fortes.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox19" type="checkbox" name="inputItem[19][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox19" type="checkbox" name="inputItem[19][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox19" type="checkbox" name="inputItem[19][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 20 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>20. </span>
+                    Não me abalo com facilidade. Sei tomar decisões sob pressão e trabalhar em ambientes estressantes.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox20" type="checkbox" name="inputItem[20][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox20" type="checkbox" name="inputItem[20][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox20" type="checkbox" name="inputItem[20][]" value="M" />
+                    </div>
+                </div>
+            </div>
         
         </div>
 

@@ -359,3 +359,12 @@ hr.teste-hr{
   display: block;
   margin-top: 30px;
 }
+
+.swal2-popup{
+  color: #2D2264 !important;
+  font-size: 13px !important;
+  width: 40% !important;
+}
+.swal2-styled.swal2-confirm{
+  background-color: #DF5A73 !important;
+}

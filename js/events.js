@@ -45,6 +45,7 @@ $(document).ready(function(){
   const qtdeContainer = document.querySelector('#qtde-teste');
   const resultadoContainer = document.querySelector('#resultadoTeste');
   const buttonTeste = document.querySelector('#teste-button');
+  const buttonVerifica = document.querySelector('.button-teste');
   let valorTotalTeste = 0;
 
   function replace( hide, show ){
@@ -52,45 +53,74 @@ $(document).ready(function(){
     document.getElementById(show).style.display = "flex";
   }
 
+  
+
   function verifica(){
-    let checkedValue = document.querySelector('.checkbox1:checked').value;
-    let checkedValue2 = document.querySelector('.checkbox2:checked').value;
 
-    switch(checkedValue){
-      case 'S':
-        valorTotalTeste++;
-        break;
-      
-      case 'N':
-        console.log('Valor N');
-        break;
+    let isChecked = document.querySelectorAll('input[type="checkbox"]');
+    let counterChecked = 0;
 
-      case 'M':
-        valorTotalTeste = valorTotalTeste + 0.5;
-        break;
-    }
+      isChecked.forEach(e=>{
+        if(e.checked){
+          counterChecked++
+        }
+      })
 
-    switch(checkedValue2){
-      case 'S':
-        valorTotalTeste++;
-        break;
-      
-      case 'N':
-        console.log('Valor N');
-        break;
+    console.log(counterChecked)
 
-      case 'M':
-        valorTotalTeste = valorTotalTeste + 0.5;
-        break;
-    }
+    if(counterChecked < 20){
+      Swal.fire('Por favor, marque ao menos 1 opção em cada alternativa');
+    } else{
 
-    console.log(`Valor Final: ${valorTotalTeste}`)
-
-    trocaQtdePontos();
-
-    resultadoContainer.style.display = 'block';
-    buttonTeste.style.display = 'flex';
+    for (let i = 1; i < 21; i++) {
+      let checkedValue = document.querySelector(`.checkbox${i}:checked`).value;
+      let className = document.querySelector(`.checkbox${i}:checked`).className;
     
+        if(className === 'checkbox8' || className === 'checkbox18'){
+          switch(checkedValue){
+            case 'S':
+              break;
+            
+            case 'N':
+              valorTotalTeste++;
+              break;
+    
+            case 'M':
+              valorTotalTeste = valorTotalTeste + 0.5;
+              break;
+          }
+        }else{
+          switch(checkedValue){
+            case 'S':
+              valorTotalTeste++;
+              break;
+            
+            case 'N':
+              break;
+    
+            case 'M':
+              valorTotalTeste = valorTotalTeste + 0.5;
+              break;
+          }
+        }
+      }
+  
+      console.log(`Valor Final: ${valorTotalTeste}`)
+  
+      trocaQtdePontos();
+  
+      resultadoContainer.style.display = 'block';
+      buttonTeste.style.display = 'flex';
+      buttonVerifica.disabled = true;
+      buttonVerifica.style.backgroundColor = "#CBD0CF"
+      buttonVerifica.style.cursor = "default";
+
+      window.scrollTo({
+        top: 2050,
+        behavior: 'smooth'
+      });
+
+    }
   }
 
   function trocaQtdePontos(){
