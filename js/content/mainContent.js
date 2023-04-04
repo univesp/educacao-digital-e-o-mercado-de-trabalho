@@ -1041,10 +1041,50 @@ const mainContent = `
         </div>
 
         <div class="button-container" id="teste-button" style="display: none;">
-            <button class="next-button3" onclick="replace('testeFinal', 'fimRea')">Avançar</button>
+            <button class="next-button3" onclick="replaceFimRea('testeFinal', 'fimRea', 'referenciasRea')">Avançar</button>
         </div>
 
         
+    </div>
+
+
+    <!-- FINAL REA -->
+    <div class="container" id="fimRea" style="display: none">
+
+        <div class="conteudo-content">
+            <p>Chegamos ao fim da jornada na qual conhecemos um pouco mais sobre a Educação Digital e sobre o mercado de trabalho.</p>
+
+            <p>Espero que tenha gostado e que o conteúdo apresentando tenha sido útil. </p>
+        </div>
+
+        <button class="next-button" onclick="reiniciaREA()">Início</button>
+        
+    </div>
+
+    <div class="container" id="referenciasRea" style="display: none">
+
+        <hr class="teste-hr" />
+
+        <div class="conteudo-content" id="referenciasContent">
+            <h3>Referências</h3>
+
+            <p>BERG, Ernesto. Você é capaz de manter seu emprego? Descubra o que é empregabilidade! Rhportal. Disponível em: https://www.rhportal.com.br/artigos-rh/voce-e-capaz-de-manter-seu-emprego-descubra-sua-empregabilidade/. Acesso em: 28 mar. 2023.</p>
+
+            <p>GUIA DO ESTUDANTE. Fazer curso EAD permite crescimento na carreira. Disponível em: https://guiadoestudante.abril.com.br/orientacao-profissional/ead-aquele-upgrade-na-carreira/. Acesso em: 11 jan. 2019.</p>
+
+            <p>INFOGEEKIES. Educação Digital: o passo necessário na formação da cidadania (digital). Disponível em: http://info.geekie.com.br/educacao-digital-2/. Acesso em: 11 jan. 2019.</p>
+
+            <p>ISTO É. O profissional que o mercado quer. Disponível em: https://istoe.com.br/196912_O+PROFISSIONAL+QUE+O+MERCADO+QUER/. Acesso em: 11 jan. 2019.</p>
+
+            <p>SILVA, Wellington Souza. Mercado de Trabalho. Disponível em: https://www.infoescola.com/economia/mercado-de-trabalho/. Acesso em: 11 jan. 2019.</p>
+
+            <p>YOUTUBE. Canal GNT. Como a tecnologia está mudando a forma de dar aula. Disponível em: https://www.youtube.com/watch?v=KcEBAnDh-u4. Acesso em: 11 jan. 2019.</p>
+
+            <p>YOUTUBE. Fecomercio. SP. A educação na era digital. Disponível em: https://www.youtube.com/watch?v=Eu5S8MBLKWE. Acesso em: 11 jan. 2019.</p>
+
+            <p>YOUTUBE. TEDx Talks. O Profissional do Futuro - Michelle Schneider – TEDxFAAP. Disponível: https://www.youtube.com/watch?v=9G5mS_OKT0A. Acesso em 17 jan. 2019.</p>
+        </div>
+    
     </div>
 `;
 

@@ -60,13 +60,13 @@ hr.end-header{
 
 /* ------- CONTEÚDO 1 ------- */
 
-#conteudo1, #conteudo2, #conteudo3, #conteudo5{
+#conteudo1, #conteudo2, #conteudo3, #conteudo5, #fimRea{
   padding-top: 0;
   display: flex;
   align-items: center;
 }
 
-#conteudo6, #conteudo8, #conteudo9, #conteudo10, #testeFinal{
+#conteudo6, #conteudo8, #conteudo9, #conteudo10, #testeFinal, #referenciasRea{
   display: flex;
   flex-direction: column;
 }
@@ -367,4 +367,12 @@ hr.teste-hr{
 }
 .swal2-styled.swal2-confirm{
   background-color: #DF5A73 !important;
+}
+
+#referenciasRea, #referenciasContent{
+  margin-top: 30px;
+}
+
+#referenciasContent{
+  width: 90%;
 }

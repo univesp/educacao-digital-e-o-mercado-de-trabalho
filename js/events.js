@@ -16,6 +16,8 @@ $(document).ready(function(){
           nav.fadeOut();
         }
       });
+
+      $(this).scrollTop(0);
   
     //////////////////////////////////////////////////////////////////
   
@@ -51,6 +53,25 @@ $(document).ready(function(){
   function replace( hide, show ){
     document.getElementById(hide).style.display = "none";
     document.getElementById(show).style.display = "flex";
+
+    window.scrollTo({
+      top: 400,
+      behavior: 'smooth'
+    });
+  }
+  function replaceFimRea( hide, show, show2 ){
+    document.getElementById(hide).style.display = "none";
+    document.getElementById(show).style.display = "flex";
+    document.getElementById(show2).style.display = "flex";
+
+    window.scrollTo({
+      top: 400,
+      behavior: 'smooth'
+    });
+  }
+
+  function reiniciaREA(){
+    document.location.reload();
   }
 
   
