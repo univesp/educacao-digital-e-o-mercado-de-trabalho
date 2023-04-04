@@ -1,0 +1,17 @@
+@media(min-width: 992px) and (max-width: 1200px) {
+  .header-title > h1{
+    font-size: 28pt;
+  }
+
+  .conteudo-content{
+    width: 65%;
+  }
+
+  .bloco-content{
+    width: 375px;
+  }
+
+  .button-teste{
+    width: 30%;
+  }
+}
