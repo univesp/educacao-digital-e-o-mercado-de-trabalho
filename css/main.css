@@ -20,6 +20,13 @@ a:hover{
   color: #2D2264;
 }
 
+
+/* ESCONDE ESTILOS MOBILE E TABLET */
+#conteudoPrincipalMobile{
+  display: none;
+}
+
+
 /* ------- HEADER ------- */
 
 .header-container{

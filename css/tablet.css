@@ -1,0 +1,132 @@
+@media(min-width: 768px) and (max-width: 992px) {
+    #conteudoPrincipal{
+      display: none;
+    }
+    #conteudoPrincipalMobile{
+      display: block;
+    }
+
+    .end-header{
+      display: none;
+    }
+
+    /* HEADER */
+    .header-title > h1{
+      font-size: 20pt;
+    }
+
+    .header-container > img {
+      width: 35%;
+  }
+
+  /* CONTEUDO */
+  .conteudo-content{
+    margin-left: 10%;
+    width: 85%;
+  }
+
+  .mobile-title-container{
+    width:100%;
+    display:flex;
+    align-items:center;
+    padding: 10px 5px;
+    margin-left: 9%;
+    margin-top: 50px;
+  }
+
+  .titulo-secao-mobile{
+    text-transform: uppercase;
+    color: #DF5A73;
+    font-weight: 800;
+    font-size: 26px;
+  }
+
+  .line-title-mobile{
+    height: 6px;
+    background-color:#DF5A73;
+    margin-left:10px;
+    flex-grow:1;
+    border-radius: 40px;
+  }
+
+  .imagem-mobile{
+    width:350px;
+    height:200px;
+    background-size:cover; 
+    background-position:center center; 
+    background-repeat:no-repeat; 
+    margin: 30px auto 40px auto;
+  }
+
+  .img-bg-1{
+    background-image:url('/assets/internet.jpeg');
+  }
+  .img-bg-2{
+    background-image:url('/assets/ed_digital.jpeg');
+  }
+  .img-bg-3{
+    background-image:url('/assets/ead.jpeg');
+  }
+  .img-bg-4{
+    background-image:url('/assets/mercado_trabalho.jpeg');
+  }
+
+  .videos-mobile{
+    display: flex; 
+    justify-content: center;
+    margin-top: 30px;
+  }
+
+  .videos-mobile > iframe{
+    width: 450px;
+    height: 260px;
+  }
+
+  .imagem-grafico-mobile-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 5%;
+  }
+
+  .imagem-grafico-mobile{
+    width: 90%;
+  }
+
+  .conteudo8-container{
+    gap: 0;
+    margin-top: 80px;
+    width: 95%;
+  }
+
+  .imagem-conteudo-container{
+    width:555px !important;
+    height:165px !important;
+    background-size:cover; 
+    background-position:center center; 
+    background-repeat:no-repeat;
+  }
+
+  #imgConteudo8-2{
+    background-image:url('/assets/primario.jpeg');
+  }
+  #imgConteudo8-3{
+    width:397px !important;
+    height:159px !important;
+    background-image:url('/assets/secundario.jpeg');
+  }
+  #imgConteudo8-4{
+    background-image:url('/assets/terciário.jpeg');
+  }
+
+  .content-conteudo8{
+    width: 100%;
+  }
+  #content8-2{
+    width: 85%;
+  }
+
+  #content8-1, #content8-3{
+    margin-left: -15%;
+  }
+}

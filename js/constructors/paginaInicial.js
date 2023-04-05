@@ -4,8 +4,11 @@ $('#slotNav').html(templateNav);
 /* Header */
 $('#slotHeader').html(header);
 
-/* Conteúdos */
+/* Conteúdo Desktop */
 $('#conteudoPrincipal').html(mainContent);
+
+/* Conteúdo Mobile */
+$('#conteudoPrincipalMobile').html(mobileContent);
 
 /* Footer */
 $('#slotFooter').html(footer);
