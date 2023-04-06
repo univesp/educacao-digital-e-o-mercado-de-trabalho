@@ -129,4 +129,78 @@
   #content8-1, #content8-3{
     margin-left: -15%;
   }
+
+  .conteudo9-container{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .fonte-span{
+    display: flex;
+    width: 80%;
+    align-items: center;
+    text-align: center;
+  }
+
+  .teste-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+  }
+
+  .teste-option-title {
+    width: 60%;
+  }
+
+  .button-teste{
+    width: 265px;
+  }
+
+  .teste-inputs-container{
+    margin-right: 20px;
+  }
+
+  .devolucao-teste {
+    margin-left: 10%;
+    width: 80%;
+  }
+
+  .swal2-popup {
+    width: 65% !important;
+  }
+
+  .ilustra-final-rea-mobile{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+
+  .ilustra-final-rea-mobile > img{
+    width: 45%;
+  }
+
+  .end-hr-mobile{
+    margin-top: 50px;
+    border: 10px solid #CBD0CF;
+  }
+
+  #referenciasContent{
+    width: 80%;
+  }
+
+  .botao-voltar-inicio{
+    margin-top: 50px;
+  }
+
+  .botao-voltar-inicio > a{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .next-button{
+    width: 175px;
+    height: 40px;
+    font-size: 22px;
+  }  
 }

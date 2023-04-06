@@ -1040,7 +1040,7 @@ const mainContent = `
 
         </div>
 
-        <div class="button-container" id="teste-button" style="display: none;">
+        <div class="button-container button-teste-avanca" id="teste-button" style="display: none;">
             <button class="next-button3" onclick="replaceFimRea('testeFinal', 'fimRea', 'referenciasRea')">Avançar</button>
         </div>
 

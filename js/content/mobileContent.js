@@ -170,4 +170,869 @@ const mobileContent = `
         <p>Se unirmos a era digital e a carreira de trabalho, logo abrimos o leque de opções e de carreiras que antes era executadas de maneira manual e hoje são realizadas por meios digitais. Logo, cabe a nós aprender e nos adequar às novas funções que o mercado de trabalho exige. Dessa forma entrarmos de vez na era digital.</p>
       </div>
 
+
+    <!--  CONTEUDO 9 - TENDÊNCIAS DE MERCADO E HABILIDADES -->
+      <div class="mobile-title-container">
+        <span class="titulo-secao-mobile">Tendências de mercado e habilidades</span>
+        <span class="line-title-mobile"></span>
+      </div>
+  
+      <div class="conteudo-content">
+        <p>Agora vamos conhecer as tendências de mercado.</p>
+      </div>
+
+      <div class="conteudo9-container">
+
+        <div class="bloco-item">
+
+          <div class="bloco-num">
+              1
+          </div>
+
+          <div class="bloco-content">
+        
+            <span class="bloco-title">Terceirização</span>
+
+            <span class="bloco-text">Haverá maior flexibilização dos contratos trabalhistas, como as opções de meio período, temporário e free lancer.</span>
+        
+          </div>
+    
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num">
+              2
+          </div>
+
+          <div class="bloco-content">
+
+            <span class="bloco-title">Funcionário Remoto</span>
+
+            <span class="bloco-text">O home office, já adotado por diversas empresas, vai ser mais comum, sobretudo em megalópoles como São Paulo ou Rio de Janeiro.</span>
+        
+          </div>
+    
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num">
+              3
+          </div>
+
+          <div class="bloco-content">
+
+            <span class="bloco-title">Dinamismo</span>
+
+            <span class="bloco-text">Mudar de emprego com mais rapidez, e até de carreira, vai ser a realidade dos adolescentes de hoje. PAra isso, será preciso estudar sempre.</span>
+          
+          </div>
+                
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num">
+              4
+          </div>
+
+          <div class="bloco-content">
+          
+              <span class="bloco-title">Áreas Promissoras</span>
+
+              <span class="bloco-text">Bem-estar, meio ambiente, longevidade e inovação serão os principais temas que nortearão os futuros profissionais brasileiros.</span>
+          
+          </div>
+      
+        </div>
+
+        <div class="bloco-item">
+
+            <div class="bloco-num">
+                5
+            </div>
+
+            <div class="bloco-content">
+
+                <span class="bloco-title">Jornada</span>
+
+                <span class="bloco-text">Para continuar estudando ao longo da vida e usufruindo do tempo livre, as pessoas precisarão de jornadas menores.</span>
+            
+            </div>
+        
+          </div>
+
+          <div class="bloco-item">
+
+              <div class="bloco-num">
+                  6
+              </div>
+
+              <div class="bloco-content">
+
+                  <span class="bloco-title">Profissões</span>
+
+                  <span class="bloco-text">Novas profissões vão surgir, como o gerente de ecorrelações, que irá desenvolver projetos ambientais; e o conselheiro de aposentadoria.</span>
+              
+              </div>
+          
+          </div>
+        
+      </div>
+
+      <span class="fonte-span">Fonte: Marco Pochmann (Ipea), Adriana Gomes (ESPM), Renata Giovinazzo (Profuturo/Fia), Heliani Santos (FEA/USP), Instituto de Estudos do Trabalho de Bonn (IZA)</span>
+
+      <br /><br />
+
+      <div class="conteudo-content">
+        <p>Para tanto, algumas habilidades serão valorizadas. Vamos conhecer?</p>
+      </div>
+
+      <div class="conteudo9-container">
+
+        <div class="bloco-item">
+
+          <div class="bloco-num2">
+              1
+          </div>
+
+          <div class="bloco-content">
+          
+            <span class="bloco-title2">Superformação</span>
+
+            <span class="bloco-text">A formação no ensino superioro será o básico. <br/> Pós-graduação, cursos técnicos, especializações, participações em seminários e workshops serão vitais para acompanhar as constantes mudanças.</span>
+          
+          </div>
+                  
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num2">
+              2
+          </div>
+
+          <div class="bloco-content">
+
+            <span class="bloco-title2">Multicultural</span>
+
+            <span class="bloco-text">Mais que falar outras línguas, o profissional que tiver viajado e interagido com pessoas de outras culturas será mais apreciado pelo mercado. Assim como ler, ouvir músicas novas, se informar e estar aberto ao novo e ao diferente.</span>
+          
+          </div>
+                  
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num2">
+              3
+          </div>
+
+          <div class="bloco-content">
+
+            <span class="bloco-title2">Útil e Inovador</span>
+
+            <span class="bloco-text">Inovações que visam contribuir com o próximo, como um produto que auxilie comunidades carentes ou um serviço que diminua a burocracia de uma empresa, serão mais valorizadas.</span>
+          
+          </div>
+                  
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num2">
+              4
+          </div>
+
+          <div class="bloco-content">
+
+            <span class="bloco-title2">Pensar Digitalmente</span>
+
+            <span class="bloco-text">A vida acontece na frente do computador. Quem não souber usar ferramentas básicas de informática e de internet tende a ficar excluído.</span>
+          
+          </div>
+                  
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num2">
+              5
+          </div>
+
+          <div class="bloco-content">
+          
+            <span class="bloco-title2">Transdisciplinar</span>
+
+            <span class="bloco-text">A capacidade de unir diferentes competências de áreas que aparentemente não se assemelham e dar um novo significado a elas ajudará a arejar a criatividade das empresas.</span>
+          
+          </div>
+                
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num2">
+              6
+          </div>
+
+          <div class="bloco-content">
+
+            <span class="bloco-title2">Autoadministração</span>
+
+            <span class="bloco-text">Saber lidar com a burocracia do País e gerir as próprias contas vai ser uma questão de sobreviência. Muitos brasileiros terão que aprender a se organizar com a aposentadoria, o plano de saúde, o transporte e os custos de alimentação.</span>
+          
+          </div>
+                
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num2">
+              7
+          </div>
+
+          <div class="bloco-content">
+
+            <span class="bloco-title2">Empreendedorismo</span>
+
+            <span class="bloco-text">O Brasil já é um dos campeões em empreendedorismo. <br /> O conceito, entretanto, deverá fazer parte da vida de todos, e não só dos que abrem uma empresa. Hoje, o líder empreendedor já é admirado e disputado no mercado.</span>
+                    
+          </div>
+                
+        </div>
+
+        <div class="bloco-item">
+
+          <div class="bloco-num2">
+              8
+          </div>
+
+          <div class="bloco-content">
+
+            <span class="bloco-title2">Competências Emocionais</span>
+
+            <span class="bloco-text">Num mundo cada vez mais informatizado, o caputal humano fará toda a diferença. E isso significa lidar com o outro, ter uma boa comunicação, saber se colocar e ter um espírito cooperativo.</span>
+                    
+          </div>
+            
+        </div>
+
+      </div>
+
+
+    <!--  CONTEUDO 10 - O PROFISSIONAL DO FUTURO -->
+      <div class="mobile-title-container">
+        <span class="titulo-secao-mobile">O Profissional do Futuro</span>
+        <span class="line-title-mobile"></span>
+      </div>
+  
+      <div class="conteudo-content">
+        <p>Para finalizar, vamos conhecer um pouco sobre o profissional do futuro. Assista a este vídeo.</p>
+
+          <p>Você pode acessar a transcrição clicando <a target="_blank" href="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/transcricoes/3%C2%BA%20Vi%CC%81deo%20-%20Transcric%CC%A7a%CC%83o%20-%20O%20Profissional%20do%20Futuro.pdf">aqui</a>.</p>
+      </div>
+  
+      <div class="videos-mobile">
+        <iframe src="https://www.youtube.com/embed/9G5mS_OKT0A"></iframe>
+      </div>
+
+
+      <!-- TESTE FINAL -->
+        <div class="mobile-title-container">
+          <span class="titulo-secao-mobile">Teste Final</span>
+          <span class="line-title-mobile"></span>
+        </div>
+
+        <div class="conteudo-content">
+          <p>Agora que você já conheceu um pouco mais sobre as tendências de mercado sobre as habilidades que são mais valorizadas às empresas e sobre o perfil do profissional do futuro, vamos entender o que é Empregabilidade.</p>
+
+          <p>Trata-se da capacidade de desenvolver determinadas competências, habilidades e conhecimentos do interesse do mercado de trabalho e que são importantes e atraentes para as empresas.</p>
+
+          <p>Você quer conhecer seu grau de empregabilidade? É só realizar este teste.</p>
+
+          <p>Para que o resultado seja fidedigno responda a cada afirmação com a máxima honestidade, retratando a sua situação atual, e não a ideal.</p>
+        </div>
+
+        <hr class="teste-hr" />
+
+        <div class="options-container">
+            <span>S = SIM</span>
+            <span>N = NÃO</span>
+            <span>+ - = MAIS OU MENOS</span>
+        </div>
+
+        <div class="teste-container" id="testeContainer">
+
+            <!-- ITEM TESTE 1 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>1. </span>
+                    Eu me envolvo completamente no meu trabalho. No meu emprego, eu trabalho scomo se o negócio fosse meu.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox1" type="checkbox" name="inputItem[1][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox1" type="checkbox" name="inputItem[1][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox1" type="checkbox" name="inputItem[1][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 2 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>2. </span>
+                    Sou fluente na língua inglesa (conversação, leitura, escrita).
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox2" type="checkbox" name="inputItem[2][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox2" type="checkbox" name="inputItem[2][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox2" type="checkbox" name="inputItem[2][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 3 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>3. </span>
+                    Adapto-me rapidamente a todos os tipos de mudanças na empresa.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox3" type="checkbox" name="inputItem[3][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox3" type="checkbox" name="inputItem[3][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox3" type="checkbox" name="inputItem[3][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 4 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>4. </span>
+                    A profissão que exerço está totalmente de acordo com minha vocação.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox4" type="checkbox" name="inputItem[4][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox4" type="checkbox" name="inputItem[4][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox4" type="checkbox" name="inputItem[4][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 5 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>5. </span>
+                    Estou sempre criando desafios profissionais para mim mesmo.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox5" type="checkbox" name="inputItem[5][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox5" type="checkbox" name="inputItem[5][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox5" type="checkbox" name="inputItem[5][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 6 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>6. </span>
+                    Faço pelo menos um curso de curta duração (de 8 a 24 horas) a cada seis meses.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox6" type="checkbox" name="inputItem[6][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox6" type="checkbox" name="inputItem[6][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox6" type="checkbox" name="inputItem[6][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 7 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>7. </span>
+                    Estou sempre atento às oportunidades de trabalho que surgem no mercado, ligadas à minha profissão.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox7" type="checkbox" name="inputItem[7][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox7" type="checkbox" name="inputItem[7][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox7" type="checkbox" name="inputItem[7][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 8 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>8. </span>
+                    No trabalho que faço atualmente na empresa, sou substituível a qualquer momento.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox8" type="checkbox" name="inputItem[8][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox8" type="checkbox" name="inputItem[8][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox8" type="checkbox" name="inputItem[8][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 9 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>9. </span>
+                    Tenho muita iniciativa e estou sempre inovando no meu trabalho.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox9" type="checkbox" name="inputItem[9][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox9" type="checkbox" name="inputItem[9][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox9" type="checkbox" name="inputItem[9][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 10 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>10. </span>
+                    Cuido da minha aparência e utilizo roupas adequadas ao ambiente em que trabalho.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox10" type="checkbox" name="inputItem[10][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox10" type="checkbox" name="inputItem[10][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox10" type="checkbox" name="inputItem[10][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 11 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>11. </span>
+                    Tenho uma rede de contatos e relacionamentos profissionais fora da empresa que podem abrir-me oportunidades de trabalho rapidamente.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox11" type="checkbox" name="inputItem[11][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox11" type="checkbox" name="inputItem[11][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox11" type="checkbox" name="inputItem[11][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 12 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>12. </span>
+                    Estou sempre me atualizando e fazendo cursos de aperfeiçoamento de média e longa duração em minha área profissional.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox12" type="checkbox" name="inputItem[12][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox12" type="checkbox" name="inputItem[12][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox12" type="checkbox" name="inputItem[12][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 13 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>13. </span>
+                    Tenho disponibilidade para viajar ou mudar de cidade, se necessário for.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox13" type="checkbox" name="inputItem[13][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox13" type="checkbox" name="inputItem[13][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox13" type="checkbox" name="inputItem[13][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 14 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>14. </span>
+                    Tenho facilidade de me relacionar com qualquer tipo de pessoa.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox14" type="checkbox" name="inputItem[14][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox14" type="checkbox" name="inputItem[14][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox14" type="checkbox" name="inputItem[14][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 15 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>15. </span>
+                    Se eu fosse demitido hoje, teria uma nova colocação no máximo em dois ou três meses.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox15" type="checkbox" name="inputItem[15][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox15" type="checkbox" name="inputItem[15][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox15" type="checkbox" name="inputItem[15][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 16 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>16. </span>
+                    Eu (e não minha empresa) sou o maior responsável pelo desenvolvimento da minha carreira e da minha profissão.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox16" type="checkbox" name="inputItem[16][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox16" type="checkbox" name="inputItem[16][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox16" type="checkbox" name="inputItem[16][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 17 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>17. </span>
+                    Tenho facilidade de vender minhas ideias aos outros.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox17" type="checkbox" name="inputItem[17][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox17" type="checkbox" name="inputItem[17][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox17" type="checkbox" name="inputItem[17][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 18 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>18. </span>
+                    Sinto-me inibido quando tenho que dar palestras e enfrentar público.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox18" type="checkbox" name="inputItem[18][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox18" type="checkbox" name="inputItem[18][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox18" type="checkbox" name="inputItem[18][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 19 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>19. </span>
+                    Trabalhar em equipe e interagir com pessoas é um dos meus pontos fortes.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox19" type="checkbox" name="inputItem[19][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox19" type="checkbox" name="inputItem[19][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox19" type="checkbox" name="inputItem[19][]" value="M" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- ITEM TESTE 20 -->
+            <div class="teste-item">
+                <div class="teste-option-title">
+                    <span>20. </span>
+                    Não me abalo com facilidade. Sei tomar decisões sob pressão e trabalhar em ambientes estressantes.
+                </div>
+
+                <div class="teste-inputs-container">
+                    <div class="teste-inputs-item">
+                        <label>S</label>
+                        <input class="checkbox20" type="checkbox" name="inputItem[20][]" value="S" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>N</label>
+                        <input class="checkbox20" type="checkbox" name="inputItem[20][]" value="N" />
+                    </div>
+
+                    <div class="teste-inputs-item">
+                        <label>+ -</label>
+                        <input class="checkbox20" type="checkbox" name="inputItem[20][]" value="M" />
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+
+        <div style="display: flex; alignitems: center;">
+          <button class="button-teste" onclick="verifica()">Gerar Pontuação</button>
+        </div>
+
+        <div class="devolucao-teste" id="resultadoTeste" style="display: none;">
+
+            <span class="pontuacaoTeste">Sua pontuação: <span class="qtdeTeste" id="qtde-teste"></span>.</span>
+
+            <span class="resultadoTitle">Sua Avaliação sobre empregabilidade</span>
+
+            <p><strong>De 18 a 20 pontos: </strong>Parabéns! O desemprego não aflige você, porque sua empregabilidade está no auge. Você sabe investir em você e se destacar no trabalho, tem um bom networking extraempresa, está atento ao que ocorre ao seu redor e às tendências do mercado. Se viesse a perder o emprego, rapidamente conseguiria outra colocação.</p>
+
+            <p><strong>De 15 a 17,5 pontos: </strong>Sua empregabilidade está entre média e boa. Você procura se atualizar e busca ser reconhecido pela empresa, embora, talvez, nem sempre o consiga. Demonstra interesse pelo que ocorre no mercado, embora isso, necessariamente, não signifique que queira trocar de emprego. É provável que você tenha que melhorar seu networking. Veja as questões onde você não pontuou, ou obteve meio ponto, pois elas podem dar-lhe boas indicações do que necessita melhorar.</p>
+
+            <p><strong>De 12 a 14,5 pontos: </strong>Sua empregabilidade é apenas regular. Apresenta várias brechas que podem dificultar seu trabalho ou sua garantia de emprego. Procure analisar como anda seu aprimoramento profissional, seu relacionamento com entidades externas e profissionais da área e, sobretudo, como você está vendendo seu serviço dentro da própria empresa. Veja as questões onde você não pontuou, ou obteve meio ponto, pois elas podem dar-lhe boas indicações do que necessita melhorar.</p>
+
+            <p><strong>Abaixo de 12 pontos: </strong>Sua empregabilidade é baixa. Talvez você ande desmotivado ou não esteja dando importância à sua carreira, mas existem muitas brechas que precisam ser ajustadas. Não subestime seu trabalho, sua empresa ou o mercado de trabalho. Se você trabalha numa organização onde não existe estabilidade de emprego, você tem que investir forte em si e em sua carreira. Boas colocações requerem trabalho intenso e continuado, aperfeiçoamento contínuo, e uma boa rede de contatos. Veja as questões onde você não pontuou, ou obteve meio ponto, pois elas podem dar-lhe boas indicações do que necessita melhorar.</p>
+
+            <span class="fonte-resultado">Fonte: Texto extraído e condensado do livro “35 Testes para Avaliar suas Habilidades Profissionais”, de Ernesto Artur Berg, Juruá Editora, no formato de e-book ou livro físico.</span>
+
+        </div>
+        
+    </div>
+
+    <hr class="end-hr-mobile" />
+
+    <!-- FINAL REA -->
+    <div class="conteudo-content" style="margin-top: 60px">
+      <div class="ilustra-final-rea-mobile">
+        <img src="/assets/ilustra_fim.svg" alt="" />
+      </div>
+
+      <p>Chegamos ao fim da jornada na qual conhecemos um pouco mais sobre a Educação Digital e sobre o mercado de trabalho.</p>
+
+      <p>Espero que tenha gostado e que o conteúdo apresentando tenha sido útil. </p>
+    </div>
+
+
+    <!-- REFRENCIAS -->
+    <div class="mobile-title-container">
+      <span class="titulo-secao-mobile">Referências</span>
+      <span class="line-title-mobile"></span>
+    </div>
+
+    <div class="conteudo-content" id="referenciasContent">
+      <p>BERG, Ernesto. Você é capaz de manter seu emprego? Descubra o que é empregabilidade! Rhportal. Disponível em: https://www.rhportal.com.br/artigos-rh/voce-e-capaz-de-manter-seu-emprego-descubra-sua-empregabilidade/. Acesso em: 28 mar. 2023.</p>
+
+      <p>GUIA DO ESTUDANTE. Fazer curso EAD permite crescimento na carreira. Disponível em: https://guiadoestudante.abril.com.br/orientacao-profissional/ead-aquele-upgrade-na-carreira/. Acesso em: 11 jan. 2019.</p>
+
+      <p>INFOGEEKIES. Educação Digital: o passo necessário na formação da cidadania (digital). Disponível em: http://info.geekie.com.br/educacao-digital-2/. Acesso em: 11 jan. 2019.</p>
+
+      <p>ISTO É. O profissional que o mercado quer. Disponível em: https://istoe.com.br/196912_O+PROFISSIONAL+QUE+O+MERCADO+QUER/. Acesso em: 11 jan. 2019.</p>
+
+      <p>SILVA, Wellington Souza. Mercado de Trabalho. Disponível em: https://www.infoescola.com/economia/mercado-de-trabalho/. Acesso em: 11 jan. 2019.</p>
+
+      <p>YOUTUBE. Canal GNT. Como a tecnologia está mudando a forma de dar aula. Disponível em: https://www.youtube.com/watch?v=KcEBAnDh-u4. Acesso em: 11 jan. 2019.</p>
+
+     <p>YOUTUBE. Fecomercio. SP. A educação na era digital. Disponível em: https://www.youtube.com/watch?v=Eu5S8MBLKWE. Acesso em: 11 jan. 2019.</p>
+
+      <p>YOUTUBE. TEDx Talks. O Profissional do Futuro - Michelle Schneider – TEDxFAAP. Disponível: https://www.youtube.com/watch?v=9G5mS_OKT0A. Acesso em 17 jan. 2019.</p>
+    </div>
+
+    <div class="botao-voltar-inicio">
+      <a href="#">
+      <button class="next-button">Início</button>
+      </a>
+    </div>
+
 `;

@@ -44,10 +44,10 @@ $(document).ready(function(){
   
   })
 
-  const qtdeContainer = document.querySelector('#qtde-teste');
-  const resultadoContainer = document.querySelector('#resultadoTeste');
-  const buttonTeste = document.querySelector('#teste-button');
-  const buttonVerifica = document.querySelector('.button-teste');
+  const qtdeContainer = document.querySelectorAll('.qtdeTeste');
+  const resultadoContainer = document.querySelectorAll('.devolucao-teste');
+  const buttonTeste = document.querySelectorAll('.button-teste-avanca');
+  const buttonVerifica = document.querySelectorAll('.button-teste');
   let valorTotalTeste = 0;
 
   function replace( hide, show ){
@@ -73,7 +73,6 @@ $(document).ready(function(){
   function reiniciaREA(){
     document.location.reload();
   }
-
   
 
   function verifica(){
@@ -130,20 +129,41 @@ $(document).ready(function(){
   
       trocaQtdePontos();
   
-      resultadoContainer.style.display = 'block';
-      buttonTeste.style.display = 'flex';
-      buttonVerifica.disabled = true;
-      buttonVerifica.style.backgroundColor = "#CBD0CF"
-      buttonVerifica.style.cursor = "default";
+      resultadoContainer.forEach(e => {
+        e.style.display = 'block';
+      })
 
-      window.scrollTo({
-        top: 2050,
-        behavior: 'smooth'
-      });
+      buttonTeste.forEach(e => {
+        e.style.display = 'flex';
+      })
+
+      buttonVerifica.forEach(e => {
+        e.disabled = true;
+        e.style.backgroundColor = "#CBD0CF";
+        e.style.cursor = "default";
+      })
+
+      if (window.matchMedia("(min-width:992px)").matches) {
+        window.scrollTo({
+          top: 2050,
+          behavior: 'smooth'
+        });
+      }
+
+      else if (window.matchMedia("(min-width:768px)").matches){
+        window.scrollTo({
+          top: 10500,
+          behavior: 'smooth'
+        });
+      }
 
     }
   }
 
+
   function trocaQtdePontos(){
-    qtdeContainer.innerHTML = `${valorTotalTeste} pontos`;
+    
+      qtdeContainer.forEach(e => {
+        e.innerHTML = `${valorTotalTeste} pontos`;
+      }) 
   }
