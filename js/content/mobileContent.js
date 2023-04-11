@@ -225,7 +225,7 @@ const mobileContent = `
 
             <span class="bloco-title">Dinamismo</span>
 
-            <span class="bloco-text">Mudar de emprego com mais rapidez, e até de carreira, vai ser a realidade dos adolescentes de hoje. PAra isso, será preciso estudar sempre.</span>
+            <span class="bloco-text">Mudar de emprego com mais rapidez, e até de carreira, vai ser a realidade dos adolescentes de hoje. Para isso, será preciso estudar sempre.</span>
           
           </div>
                 
@@ -1031,7 +1031,7 @@ const mobileContent = `
 
     <div class="botao-voltar-inicio">
       <a href="#">
-      <button class="next-button">Início</button>
+      <button class="next-button" onClick="location.reload()">Início</button>
       </a>
     </div>
 

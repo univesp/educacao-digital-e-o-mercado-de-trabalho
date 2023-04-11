@@ -1,0 +1,28 @@
+@media(min-width: 576px) and (max-width: 768px) {
+
+    /* HEADER */
+    .header-title > h1{
+      font-size: 15pt;
+    }
+
+    .header-container > img {
+      width: 35%;
+  }
+
+  /* CONTEUDO */
+  .titulo-secao-mobile{
+    font-size: 24px;
+  }
+
+  .teste-option-title {
+    width: 48%;
+  }
+
+  .bloco-title, .bloco-title2{
+    font-size: 22px;
+  }
+
+  .resultadoTitle{
+    font-size: 21px;
+  }
+}

@@ -383,3 +383,14 @@ hr.teste-hr{
 #referenciasContent{
   width: 90%;
 }
+
+/* TELAS MUITO GRANDES */
+@media (min-width: 1470px) {
+  .header-container{
+    margin-left: 24%;
+  }
+
+  .header-container > img{
+    width: 22%;
+  }
+}

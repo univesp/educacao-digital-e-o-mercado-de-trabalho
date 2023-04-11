@@ -1,0 +1,172 @@
+@media(min-width: 150px) and (max-width: 576px) {
+
+    /* HEADER */
+    header{
+        padding-bottom: 0;
+    }
+
+    .header-title > h1{
+      font-size: 15pt;
+    }
+
+    .header-container{
+        flex-direction: column;
+        margin-left: 0;
+        justify-content: center;
+    }
+
+    .header-container > img {
+      width: 70%;
+      margin-bottom: 5%;
+  }
+
+  /* CONTEUDO */
+  .titulo-secao-mobile{
+    font-size: 18px;
+  }
+
+  .imagem-mobile{
+    width: 250px;
+    height: 150px;
+  }
+
+  .videos-mobile > iframe {
+    width: 290px;
+    height: 185px;
+}
+
+.conteudo9-container {
+    align-items: baseline;
+}
+
+  .teste-option-title {
+    width: 48%;
+  }
+
+  .bloco-title, .bloco-title2{
+    font-size: 17px;
+  }
+
+  .bloco-text{
+    width: 50%;
+  }
+
+  .conteudo8-container{
+    flex-direction: column;
+    margin-top: 50px;
+  }
+
+  .imagem-conteudo-container{
+    order: 1;
+    width: 270px !important;
+    height: 170px !important;
+  }
+
+  #content8-1, #content8-3 {
+    margin-left: 0;
+}
+
+#imgConteudo8-3 {
+    width: 275px !important;
+    height: 171px !important;
+    margin-left: 10%;
+}
+
+  .options-container{
+    margin-left: 10%;
+  }
+
+  .teste-item {
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.teste-option-title {
+    width: 95%;
+}
+
+  .resultadoTitle{
+    font-size: 21px;
+  }
+}
+
+
+@media(min-width: 350px) and (max-width: 400px) {
+
+    /* HEADER */
+    .header-title > h1{
+      font-size: 17pt;
+    }
+
+  /* CONTEUDO */
+  .videos-mobile > iframe {
+    width: 310px;
+    height: 185px;
+}
+
+.conteudo9-container {
+    align-items: baseline;
+    margin-left: 10%;
+}
+
+.teste-inputs-container{
+    justify-content: center;
+}
+}
+
+
+@media(min-width: 400px) and (max-width: 480px) {
+
+    /* HEADER */
+    .header-title > h1{
+      font-size: 19pt;
+    }
+
+  /* CONTEUDO */
+  .videos-mobile > iframe {
+    width: 310px;
+    height: 185px;
+}
+
+.mobile-title-container{
+    width: 95%;
+}
+
+.conteudo9-container {
+    align-items: baseline;
+    margin-left: 10%;
+}
+
+.teste-inputs-container{
+    justify-content: center;
+}
+}
+
+
+@media(min-width: 480px) and (max-width: 576px) {
+
+    /* HEADER */
+    .header-title > h1{
+      font-size: 22pt;
+    }
+
+  /* CONTEUDO */
+  .videos-mobile > iframe {
+    width: 310px;
+    height: 185px;
+}
+
+.mobile-title-container{
+    width: 95%;
+}
+
+.conteudo9-container {
+    align-items: baseline;
+    margin-left: 10%;
+}
+
+.teste-inputs-container{
+    justify-content: center;
+}
+}
