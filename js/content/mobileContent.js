@@ -88,7 +88,7 @@ const mobileContent = `
       </div>
 
       <div class="imagem-grafico-mobile-container">
-        <img class="imagem-grafico-mobile" src="/assets/grafico.svg" alt="">
+        <img class="imagem-grafico-mobile" src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/grafico.svg" alt="">
       </div>
 
 
@@ -127,7 +127,7 @@ const mobileContent = `
 
       <div class="conteudo8-container">
             <div class="imagem-conteudo-container" id="imgConteudo8-2">
-                <img src="/assets/primario.jpeg" alt="">
+                <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/primario.jpeg" alt="">
             </div>
 
             <div class="conteudo-content">
@@ -141,13 +141,13 @@ const mobileContent = `
             </div>
 
             <div class="imagem-conteudo-container" id="imgConteudo8-3">
-                <img src="/assets/secundario.jpeg" alt="">
+                <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/secundario.jpeg" alt="">
             </div>
         </div>
 
         <div class="conteudo8-container">
             <div class="imagem-conteudo-container" id="imgConteudo8-4">
-                <img src="/assets/terciario.jpeg" alt="">
+                <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/terciario.jpeg" alt="">
             </div>
 
             <div class="conteudo-content">
@@ -996,7 +996,7 @@ const mobileContent = `
     <!-- FINAL REA -->
     <div class="conteudo-content" style="margin-top: 60px">
       <div class="ilustra-final-rea-mobile">
-        <img src="/assets/ilustra_fim.svg" alt="" />
+        <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/ilustra_fim.svg" alt="" />
       </div>
 
       <p>Chegamos ao fim da jornada na qual conhecemos um pouco mais sobre a Educação Digital e sobre o mercado de trabalho.</p>

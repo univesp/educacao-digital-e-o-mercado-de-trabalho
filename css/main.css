@@ -170,7 +170,7 @@ hr.end-header{
   background-size:cover; 
   background-position:center center; 
   background-repeat:no-repeat; 
-  background-image:url('/assets/primario.jpeg');
+  background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/primario.jpeg');
 }
 #imgConteudo8-3{
   width:350px;
@@ -178,7 +178,7 @@ hr.end-header{
   background-size:cover; 
   background-position:center center; 
   background-repeat:no-repeat; 
-  background-image:url('/assets/secundario.jpeg');
+  background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/secundario.jpeg');
   margin-left: -60px;
 }
 #imgConteudo8-4{
@@ -187,7 +187,7 @@ hr.end-header{
   background-size:cover; 
   background-position:center center; 
   background-repeat:no-repeat; 
-  background-image:url('/assets/terciário.jpeg');
+  background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/terciário.jpeg');
 }
 
 .content-conteudo8{

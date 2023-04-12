@@ -25,7 +25,7 @@ const mainContent = `
         </div>
 
         <div class="imagem-conteudo-container">
-            <img src="/assets/internet.jpeg" alt=""> 
+            <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/internet.jpeg" alt=""> 
         </div>
     </div>
 
@@ -47,7 +47,7 @@ const mainContent = `
         </div>
 
         <div class="imagem-conteudo-container">
-            <img src="/assets/ed_digital.jpeg" alt=""> 
+            <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/ed_digital.jpeg" alt=""> 
         </div>
     </div>
 
@@ -87,7 +87,7 @@ const mainContent = `
         </div>
 
         <div class="imagem-conteudo-container">
-            <img src="/assets/ead.jpeg" alt="">
+            <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/ead.jpeg" alt="">
         </div>
     </div>
 
@@ -102,7 +102,7 @@ const mainContent = `
             <p>Já se sente como um aluno Digital? Acompanhe a evolução da Educação com o passar dos anos.</p>
         </div>
 
-        <img class="grafico-img" src="/assets/grafico.svg" alt="">
+        <img class="grafico-img" src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/grafico.svg" alt="">
 
         <div class="button-container" style="margin-top: -100px">
             <button class="next-button3" onclick="replace('conteudo6', 'conteudo7')">Avançar</button>
@@ -143,13 +143,13 @@ const mainContent = `
             </div>
 
             <div class="imagem-conteudo-container">
-                <img src="/assets/mercado_trabalho.jpeg" alt="">
+                <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/mercado_trabalho.jpeg" alt="">
             </div>
         </div>
 
         <div class="conteudo8-container">
             <div class="imagem-conteudo-container" id="imgConteudo8-2">
-                <img src="/assets/primario.jpeg" alt="">
+                <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/primario.jpeg" alt="">
             </div>
 
             <div class="conteudo-content">
@@ -163,13 +163,13 @@ const mainContent = `
             </div>
 
             <div class="imagem-conteudo-container" id="imgConteudo8-3">
-                <img src="/assets/secundario.jpeg" alt="">
+                <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/secundario.jpeg" alt="">
             </div>
         </div>
 
         <div class="conteudo8-container">
             <div class="imagem-conteudo-container" id="imgConteudo8-4">
-                <img src="/assets/terciario.jpeg" alt="">
+                <img src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/terciario.jpeg" alt="">
             </div>
 
             <div class="conteudo-content">

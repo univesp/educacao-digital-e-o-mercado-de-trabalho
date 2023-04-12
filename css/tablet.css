@@ -63,16 +63,16 @@
   }
 
   .img-bg-1{
-    background-image:url('/assets/internet.jpeg');
+    background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/internet.jpeg');
   }
   .img-bg-2{
-    background-image:url('/assets/ed_digital.jpeg');
+    background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/ed_digital.jpeg');
   }
   .img-bg-3{
-    background-image:url('/assets/ead.jpeg');
+    background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/ead.jpeg');
   }
   .img-bg-4{
-    background-image:url('/assets/mercado_trabalho.jpeg');
+    background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/mercado_trabalho.jpeg');
   }
 
   .videos-mobile{
@@ -112,15 +112,15 @@
   }
 
   #imgConteudo8-2{
-    background-image:url('/assets/primario.jpeg');
+    background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/primario.jpeg');
   }
   #imgConteudo8-3{
     width:397px !important;
     height:159px !important;
-    background-image:url('/assets/secundario.jpeg');
+    background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/secundario.jpeg');
   }
   #imgConteudo8-4{
-    background-image:url('/assets/terciário.jpeg');
+    background-image:url('https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/terciário.jpeg');
   }
 
   .content-conteudo8{
