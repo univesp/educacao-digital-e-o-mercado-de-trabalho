@@ -522,7 +522,7 @@ const mainContent = `
             <div class="teste-item">
                 <div class="teste-option-title">
                     <span>1. </span>
-                    Eu me envolvo completamente no meu trabalho. No meu emprego, eu trabalho scomo se o negócio fosse meu.
+                    Eu me envolvo completamente no meu trabalho. No meu emprego, eu trabalho como se o negócio fosse meu.
                 </div>
 
                 <div class="teste-inputs-container">
