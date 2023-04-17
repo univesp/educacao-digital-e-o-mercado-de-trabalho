@@ -86,7 +86,7 @@ $(document).ready(function(){
         }
       })
 
-    console.log(counterChecked)
+    
 
     if(counterChecked < 20){
       Swal.fire('Por favor, marque ao menos 1 opção em cada alternativa');
@@ -166,4 +166,65 @@ $(document).ready(function(){
       qtdeContainer.forEach(e => {
         e.innerHTML = `${valorTotalTeste} pontos`;
       }) 
+  }
+
+  function reiniciaTeste(){
+    let isChecked = document.querySelectorAll('input[type="checkbox"]');
+
+      isChecked.forEach(e=>{
+        if(e.checked){
+          e.checked = false;
+        }
+      })
+
+    valorTotalTeste = 0;
+
+    resultadoContainer.forEach(e => {
+      e.style.display = 'none';
+    })
+
+    buttonTeste.forEach(e => {
+      e.style.display = 'none';
+    })
+
+    buttonVerifica.forEach(e => {
+      e.disabled = false;
+      e.style.backgroundColor = "#DF5A73";
+      e.style.cursor = "pointer";
+    })
+
+    if (window.matchMedia("(min-width:992px)").matches) {
+      window.scrollTo({
+        top: 900,
+        behavior: 'smooth'
+      });
+    }
+
+    else if (window.matchMedia("(min-width:768px)").matches){
+      window.scrollTo({
+        top: 8800,
+        behavior: 'smooth'
+      });
+    }
+
+    else if (window.matchMedia("(min-width:576px)").matches){
+      window.scrollTo({
+        top: 9300,
+        behavior: 'smooth'
+      });
+    }
+
+    else if (window.matchMedia("(min-width:400px)").matches){
+      window.scrollTo({
+        top: 11000,
+        behavior: 'smooth'
+      });
+    }
+
+    else if (window.matchMedia("(min-width:300px)").matches){
+      window.scrollTo({
+        top: 11750,
+        behavior: 'smooth'
+      });
+    }
   }

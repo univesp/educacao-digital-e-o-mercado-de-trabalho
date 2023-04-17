@@ -1040,8 +1040,16 @@ const mainContent = `
 
         </div>
 
-        <div class="button-container button-teste-avanca" id="teste-button" style="display: none;">
-            <button class="next-button3" onclick="replaceFimRea('testeFinal', 'fimRea', 'referenciasRea')">Avançar</button>
+        <div class="botoes-teste-container">
+
+            <div class="button-container button-teste-avanca" id="teste-button" style="display: none;">
+                <button class="botao-teste botao-refazer" onclick="reiniciaTeste()">Refazer</button>
+            </div>
+
+            <div class="button-container button-teste-avanca" id="teste-button" style="display: none;">
+                <button class="botao-teste botao-teste-avancar" onclick="replaceFimRea('testeFinal', 'fimRea', 'referenciasRea')">Avançar</button>
+            </div>
+
         </div>
 
         

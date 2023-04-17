@@ -988,6 +988,14 @@ const mobileContent = `
             <span class="fonte-resultado">Fonte: Texto extraído e condensado do livro “35 Testes para Avaliar suas Habilidades Profissionais”, de Ernesto Artur Berg, Juruá Editora, no formato de e-book ou livro físico.</span>
 
         </div>
+
+        <div class="botoes-teste-container">
+
+            <div class="button-container button-teste-avanca" id="teste-button" style="display: none;">
+                <button class="botao-teste botao-refazer" onclick="reiniciaTeste()">Refazer</button>
+            </div>
+
+        </div>
         
     </div>
 
