@@ -256,7 +256,7 @@ const mainContent = `
 
                         <span class="bloco-title">Dinamismo</span>
 
-                        <span class="bloco-text">Mudar de emprego com mais rapidez, e até de carreira, vai ser a realidade dos adolescentes de hoje. PAra isso, será preciso estudar sempre.</span>
+                        <span class="bloco-text">Mudar de emprego com mais rapidez, e até de carreira, vai ser a realidade dos adolescentes de hoje. Para isso, será preciso estudar sempre.</span>
                     
                     </div>
                 
@@ -425,7 +425,7 @@ const mainContent = `
 
                         <span class="bloco-title2">Autoadministração</span>
 
-                        <span class="bloco-text">Saber lidar com a burocracia do País e gerir as próprias contas vai ser uma questão de sobreviência. Muitos brasileiros terão que aprender a se organizar com a aposentadoria, o plano de saúde, o transporte e os custos de alimentação.</span>
+                        <span class="bloco-text">Saber lidar com a burocracia do país e gerir as próprias contas vai ser uma questão de sobreviência. Muitos brasileiros terão que aprender a se organizar com a aposentadoria, o plano de saúde, o transporte e os custos de alimentação.</span>
                     
                     </div>
                 

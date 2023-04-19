@@ -381,7 +381,7 @@ const mobileContent = `
 
             <span class="bloco-title2">Autoadministração</span>
 
-            <span class="bloco-text">Saber lidar com a burocracia do País e gerir as próprias contas vai ser uma questão de sobreviência. Muitos brasileiros terão que aprender a se organizar com a aposentadoria, o plano de saúde, o transporte e os custos de alimentação.</span>
+            <span class="bloco-text">Saber lidar com a burocracia do país e gerir as próprias contas vai ser uma questão de sobreviência. Muitos brasileiros terão que aprender a se organizar com a aposentadoria, o plano de saúde, o transporte e os custos de alimentação.</span>
           
           </div>
                 
