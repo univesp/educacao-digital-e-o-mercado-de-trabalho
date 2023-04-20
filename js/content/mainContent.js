@@ -2,9 +2,9 @@ const mainContent = `
     <div class="container" id="conteudo1">
 
         <div class="conteudo-content">
-            <p>Nos dias atuais, a todo momento somos obrigados a aprender a lidar com recursos tecnológicos como softwares, aplicativos, plataformas etc., desafiando vivência de toda uma visa, experiência e aprendizados assimilados anteriormente.</p>
+            <p>Nos dias atuais, a todo momento somos obrigados a saber lidar com recursos tecnológicos como softwares, aplicativos, plataformas etc., desafiando a vivência de toda uma vida, a experiência e aprendizados assimilados anteriormente.</p>
 
-            <p>Os jovens estão caindo quase em queda livre nesse universo dinâmico, sem muitas vezes saber o que fazer ou mesmo que atitude tomar. O fato é que não somente eles, mas também muitos adultos não sabem lidar bem com essas mudanças tecnológicas que estão atreladas a uma nova experiência.​ Pensando nisso, vamos iniciar aqui uma jornada pela Educação Digital, um percurso que começa conceituando a expressão “Educação Digital” e que vai até o mundo do mercado de trabalho, com suas infindáveis particularidades.  Vamos lá?</p>
+            <p>Os jovens estão caindo quase em queda livre nesse universo dinâmico, sem muitas vezes saber o que fazer ou que atitude tomar. O fato é que não somente eles, mas também muitos adultos não sabem lidar bem com essas mudanças tecnológicas que estão atreladas a uma nova experiência.​ Pensando nisso, vamos iniciar aqui uma jornada pela Educação Digital, um percurso que começa conceituando a expressão “Educação Digital” e que se estende até o mundo do mercado de trabalho, com suas infindáveis particularidades.  Vamos lá?</p>
         </div>
 
         <button class="next-button" onclick="replace('conteudo1', 'conteudo2')">Avançar</button>
@@ -17,7 +17,7 @@ const mainContent = `
         <div class="conteudo-content">
             <h3>A Internet</h3>
 
-            <p>Quando nos referimos às novas formas de comunicação, logo nos vem à mente a Internet. Trata-se de uma rede mundial de computadores, de um espaço de comunicação com o auxílio do qual as pessoas se encontram por redes sociais, interagem, discutem, produzem, compram produtos, vendem e colaboram. No entanto, a Internet é também um ambiente no qual pode-se facilmente encontrar ameaça, calúnia, injúria, difamação e violação de direitos humanos e autorais seja de livros, músicas, filmes, entre outros.​ O fato é que a Internet se tornou um meio essencial para a comunicação contemporânea, muito embora a cada dia seja inventada uma nova tecnologia impactando nas nossas formas de se comunicar. Em decorrência desses processos dinâmicos, a área da educação muitas vezes se beneficia dessas mudanças.</p>
+            <p>Quando nos referimos às novas formas de comunicação, logo nos vem à mente a Internet. Trata-se de uma rede mundial de computadores, de um espaço de comunicação com o auxílio do qual as pessoas se encontram por redes sociais, interagem, discutem, produzem, compram produtos, vendem e colaboram. No entanto, a Internet é também um ambiente no qual podem ser facilmente encontradas ameaça, calúnia, injúria, difamação e violação de direitos humanos e autorais seja de livros, músicas, filmes, entre outros.​ O fato é que a Internet se tornou um meio essencial para a comunicação contemporânea, muito embora a cada dia seja inventada uma nova tecnologia impactando nossas formas de se comunicar. Em decorrência desses processos dinâmicos, a área da educação muitas vezes se beneficia dessas mudanças.</p>
 
             <div class="button-container">
              <button class="next-button2" onclick="replace('conteudo2', 'conteudo3')">Avançar</button>
@@ -39,7 +39,7 @@ const mainContent = `
 
             <p>É uma forma de atuação educacional para conscientizar e direcionar a utilização responsável dos meios digitais.</p>
 
-            <p>A educação Digital deve atingir não só os jovens estudantes, mas todos os usuários em geral e em todos os aspectos educacionais, proporcionando a aquisição de novos conceitos e conteúdos sobre diversos aspectos que envolvem sua área de estudo.</p>
+            <p>A Educação Digital deve atingir não só os jovens estudantes, mas todos os usuários em geral e em todos os aspectos educacionais, proporcionando a aquisição de novos conceitos e conteúdos sobre diversos aspectos que envolvem sua área de estudo.</p>
 
             <div class="button-container">
              <button class="next-button2" onclick="replace('conteudo3', 'conteudo4')">Avançar</button>
@@ -57,7 +57,7 @@ const mainContent = `
         <div class="conteudo-content">
             <h3>Tecnologia na Educação</h3>
 
-            <p>Agora que você já entendeu um pouco sobre a Educação Digital, vamos assistir a este vídeo.</p>
+            <p>Agora que você já entendeu um pouco sobre Educação Digital, vamos assistir a este vídeo.</p>
 
             <p>Você pode acessar a transcrição clicando <a target="_blank" href="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/transcricoes/1%C2%BA%20Vi%CC%81deo%20-%20Transcric%CC%A7a%CC%83o%20-%20Como%20a%20tecnologia%20esta%CC%81%20mudando%20a%20forma%20de%20dar%20aulas.pdf">aqui</a>.</p>
 
@@ -77,7 +77,7 @@ const mainContent = `
         <div class="conteudo-content">
             <h3>EAD</h3>
 
-            <p>A modalidade em EaD oferece um leque de oportunidades a quem quer ampliar os conhecimentos e ascender profissionalmente às oportunidades de emprego que exigem profissionais capazes de se reinventarem constantemente. Essa forma de ensino, muito atenta às habilidades e competências exigidas da atuação profissional contemporânea, busca formar profissionais que não se contentam com uma única forma de atuação, profissionais que aprender a lidar com as dificuldades da vida, mas não deixando de lado os estudos. Nesse sentido, nunca foi tão necessário adquirir conhecimento nas diversas áreas e aprofundar-se nos conteúdos aprendidos.</p>
+            <p>A modalidade em EaD oferece um leque de possibilidades para quem quer ampliar os conhecimentos e ascender profissionalmente às oportunidades de emprego que exigem profissionais capazes de se reinventarem constantemente. Essa forma de ensino, muito atenta às habilidades e competências exigidas da atuação profissional contemporânea, busca formar profissionais que não se contentam com uma única forma de atuação, profissionais que aprendem a lidar com as dificuldades da vida, mas não deixando de lado os estudos. Nesse sentido, nunca foi tão necessário adquirir conhecimento nas diversas áreas e aprofundar-se nos conteúdos aprendidos.</p>
 
             <p>Tendo isso em conta, é importante destacar ainda que queremos formar não apenas cidadãos capazes de interagir no mundo digital, ou seja, on-line e off-line, mas que tenham conhecimento do potencial que possuem, que aprendam a utilizar suas qualidades, capacidades e assim construir novas perspectivas profissionais.</p>
 
@@ -99,7 +99,7 @@ const mainContent = `
 
             <p>E você?</p>
 
-            <p>Já se sente como um aluno Digital? Acompanhe a evolução da Educação com o passar dos anos.</p>
+            <p>Já se sente como um aluno digital? Acompanhe a evolução da Educação ao longo da História.</p>
         </div>
 
         <img class="grafico-img" src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/grafico.svg" alt="">
@@ -137,7 +137,7 @@ const mainContent = `
             <div class="conteudo-content">
                 <h3>Mercado de Trabalho</h3>
 
-                <p>Mercado de trabalho é uma expressão utilizada pra se referir às formas de trabalho que possam existir, sendo remunerados de alguma forma, seja trabalho manual ou intelectual. As pessoas vendem sua força de trabalho por um salário, que pode ser em dinheiro, moradia, bonificação ou outra forma de recompensa pelo trabalho exercido.​​</p>
+                <p>Mercado de trabalho é uma expressão utilizada para se referir às modalidades de trabalho, manual ou intelectual, que possam existir e que sejam remunerados de alguma forma.</p>
 
                 <p>Podemos dizer que o mercado de trabalho é dividido em 3 setores:</p>            
             </div>
@@ -173,7 +173,7 @@ const mainContent = `
             </div>
 
             <div class="conteudo-content">
-                <p class="content-conteudo8"><strong>Terciário </strong>- Relacionadas a prestação de serviços, como: bancos, hospitais, escolas, mercados, ou seja, quando a forma de trabalho lida com pessoas e não com os objetos como principal foco de atuação.</p>  
+                <p class="content-conteudo8"><strong>Terciário </strong>- Está relacionado à prestação de serviços, como: bancos, hospitais, escolas, mercados, ou seja, quando o trabalho tem como principal foco de atuação as pessoas e não os objetos.</p>  
                     
                 <div class="button-container">
                     <button class="next-button2" onclick="replace('conteudo8', 'conteudo9')">Avançar</button>
@@ -193,7 +193,7 @@ const mainContent = `
 
             <p>Quando nos referimos à carreira no mercado de trabalho, paramos e pensamos o que fazer: será que conseguirei vencer nesse mercado tão competitivo?</p>
 
-            <p>Se unirmos a era digital e a carreira de trabalho, logo abrimos o leque de opções e de carreiras que antes era executadas de maneira manual e hoje são realizadas por meios digitais. Logo, cabe a nós aprender e nos adequar às novas funções que o mercado de trabalho exige. Dessa forma entrarmos de vez na era digital.</p>
+            <p>Se unirmos era digital e carreira de trabalho, abrimos o leque de opções e de carreiras que antes era executadas de maneira manual e hoje são realizadas por meios digitais. Logo, cabe a nós aprender e nos adequarmos às novas funções que o mercado de trabalho exige. Dessa forma entrarmos de vez na era digital.</p>
         </div>
 
         <div class="button-container" >
@@ -222,7 +222,7 @@ const mainContent = `
 
                     <div class="bloco-content">
                     
-                        <span class="bloco-title">Terceirização</span>
+                        <span class="bloco-title">Flexibilização</span>
 
                         <span class="bloco-text">Haverá maior flexibilização dos contratos trabalhistas, como as opções de meio período, temporário e free lancer.</span>
                     
@@ -340,7 +340,7 @@ const mainContent = `
                     
                         <span class="bloco-title2">Superformação</span>
 
-                        <span class="bloco-text">A formação no ensino superioro será o básico. <br/> Pós-graduação, cursos técnicos, especializações, participações em seminários e workshops serão vitais para acompanhar as constantes mudanças.</span>
+                        <span class="bloco-text">A formação no ensino superior será o básico. <br/> Pós-graduação, cursos técnicos, especializações, participações em seminários e workshops serão vitais para acompanhar as constantes mudanças.</span>
                     
                     </div>
                 
@@ -356,7 +356,7 @@ const mainContent = `
 
                         <span class="bloco-title2">Multicultural</span>
 
-                        <span class="bloco-text">Mais que falar outras línguas, o profissional que tiver viajado e interagido com pessoas de outras culturas será mais apreciado pelo mercado. Assim como ler, ouvir músicas novas, se informar e estar aberto ao novo e ao diferente.</span>
+                        <span class="bloco-text">Mais do que falar outras línguas, o profissional que tiver viajado e interagido com pessoas de outras culturas será mais apreciado pelo mercado. Assim como ler, ouvir músicas novas, se informar e estar aberto ao novo e ao diferente.</span>
                     
                     </div>
                 
@@ -425,7 +425,7 @@ const mainContent = `
 
                         <span class="bloco-title2">Autoadministração</span>
 
-                        <span class="bloco-text">Saber lidar com a burocracia do país e gerir as próprias contas vai ser uma questão de sobreviência. Muitos brasileiros terão que aprender a se organizar com a aposentadoria, o plano de saúde, o transporte e os custos de alimentação.</span>
+                        <span class="bloco-text">Saber lidar com a burocracia do país e gerir as próprias contas vai ser uma questão de sobrevivência. Muitos brasileiros terão que aprender a se organizar com a aposentadoria, o plano de saúde, o transporte e os custos de alimentação.</span>
                     
                     </div>
                 
@@ -457,7 +457,7 @@ const mainContent = `
 
                         <span class="bloco-title2">Competências Emocionais</span>
 
-                        <span class="bloco-text">Num mundo cada vez mais informatizado, o caputal humano fará toda a diferença. E isso significa lidar com o outro, ter uma boa comunicação, saber se colocar e ter um espírito cooperativo.</span>
+                        <span class="bloco-text">Num mundo cada vez mais informatizado, o capital humano fará toda a diferença. E isso significa lidar com o outro, ter uma boa comunicação, saber se colocar e ter um espírito cooperativo.</span>
                     
                     </div>
                 
@@ -499,7 +499,7 @@ const mainContent = `
         <div class="conteudo-content9">
             <h3>Teste Final</h3>
 
-            <p>Agora que você já conheceu um pouco mais sobre as tendências de mercado sobre as habilidades que são mais valorizadas às empresas e sobre o perfil do profissional do futuro, vamos entender o que é Empregabilidade.</p>
+            <p>Agora que você já conheceu um pouco mais sobre as tendências de mercado sobre as habilidades que são mais valorizadas pelas empresas e sobre o perfil do profissional do futuro, vamos entender o que é Empregabilidade.</p>
 
             <p>Trata-se da capacidade de desenvolver determinadas competências, habilidades e conhecimentos do interesse do mercado de trabalho e que são importantes e atraentes para as empresas.</p>
 
@@ -1030,13 +1030,13 @@ const mainContent = `
 
             <p><strong>De 18 a 20 pontos: </strong>Parabéns! O desemprego não aflige você, porque sua empregabilidade está no auge. Você sabe investir em você e se destacar no trabalho, tem um bom networking extraempresa, está atento ao que ocorre ao seu redor e às tendências do mercado. Se viesse a perder o emprego, rapidamente conseguiria outra colocação.</p>
 
-            <p><strong>De 15 a 17,5 pontos: </strong>Sua empregabilidade está entre média e boa. Você procura se atualizar e busca ser reconhecido pela empresa, embora, talvez, nem sempre o consiga. Demonstra interesse pelo que ocorre no mercado, embora isso, necessariamente, não signifique que queira trocar de emprego. É provável que você tenha que melhorar seu networking. Veja as questões onde você não pontuou, ou obteve meio ponto, pois elas podem dar-lhe boas indicações do que necessita melhorar.</p>
+            <p><strong>De 15 a 17,5 pontos: </strong>Sua empregabilidade está entre média e boa. Você procura se atualizar e busca ser reconhecido pela empresa, mesmo que, talvez, nem sempre o consiga. Demonstra interesse pelo que ocorre no mercado, embora isso, necessariamente, não signifique que queira trocar de emprego. É provável que você tenha que melhorar seu networking. Veja as questões em que você não pontuou, ou obteve meio ponto, pois elas podem dar a você boas indicações do que necessita melhorar.</p>
 
-            <p><strong>De 12 a 14,5 pontos: </strong>Sua empregabilidade é apenas regular. Apresenta várias brechas que podem dificultar seu trabalho ou sua garantia de emprego. Procure analisar como anda seu aprimoramento profissional, seu relacionamento com entidades externas e profissionais da área e, sobretudo, como você está vendendo seu serviço dentro da própria empresa. Veja as questões onde você não pontuou, ou obteve meio ponto, pois elas podem dar-lhe boas indicações do que necessita melhorar.</p>
+            <p><strong>De 12 a 14,5 pontos: </strong>Sua empregabilidade é apenas regular. Apresenta várias brechas que podem dificultar seu trabalho ou sua garantia de emprego. Procure analisar como anda seu aprimoramento profissional, seu relacionamento com entidades externas e profissionais da área e, sobretudo, como você está vendendo seu serviço dentro da própria empresa. Veja as questões em que você não pontuou, ou obteve meio ponto, pois elas podem dar a você boas indicações do que necessita melhorar.</p>
 
-            <p><strong>Abaixo de 12 pontos: </strong>Sua empregabilidade é baixa. Talvez você ande desmotivado ou não esteja dando importância à sua carreira, mas existem muitas brechas que precisam ser ajustadas. Não subestime seu trabalho, sua empresa ou o mercado de trabalho. Se você trabalha numa organização onde não existe estabilidade de emprego, você tem que investir forte em si e em sua carreira. Boas colocações requerem trabalho intenso e continuado, aperfeiçoamento contínuo, e uma boa rede de contatos. Veja as questões onde você não pontuou, ou obteve meio ponto, pois elas podem dar-lhe boas indicações do que necessita melhorar.</p>
+            <p><strong>Abaixo de 12 pontos: </strong>Sua empregabilidade é baixa. Talvez você ande desmotivado ou não esteja dando importância à sua carreira, mas existem muitas brechas que precisam ser ajustadas. Não subestime seu trabalho, sua empresa ou o mercado de trabalho. Se você trabalha numa organização onde não existe estabilidade de emprego, você tem que investir forte em si e em sua carreira. Boas colocações requerem trabalho intenso e continuado, aperfeiçoamento contínuo, e uma boa rede de contatos. Veja as questões em que você não pontuou, ou obteve meio ponto, pois elas podem dar a você boas indicações do que necessita melhorar.</p>
 
-            <span class="fonte-resultado">Fonte: Texto extraído e condensado do livro “35 Testes para Avaliar suas Habilidades Profissionais”, de Ernesto Artur Berg, Juruá Editora, no formato de e-book ou livro físico.</span>
+            <span class="fonte-resultado">Fonte: Texto extraído e condensado do livro “35 Testes para Avaliar suas Habilidades Profissionais”, de Ernesto Artur Berg, Juruá Editora.</span>
 
         </div>
 
@@ -1062,7 +1062,7 @@ const mainContent = `
         <div class="conteudo-content">
             <p>Chegamos ao fim da jornada na qual conhecemos um pouco mais sobre a Educação Digital e sobre o mercado de trabalho.</p>
 
-            <p>Espero que tenha gostado e que o conteúdo apresentando tenha sido útil. </p>
+            <p>Esperamos que tenha gostado e que o conteúdo apresentando tenha sido útil. </p>
         </div>
 
         <button class="next-button" onclick="reiniciaREA()">Início</button>
@@ -1076,21 +1076,23 @@ const mainContent = `
         <div class="conteudo-content" id="referenciasContent">
             <h3>Referências</h3>
 
-            <p>BERG, Ernesto. Você é capaz de manter seu emprego? Descubra o que é empregabilidade! Rhportal. Disponível em: https://www.rhportal.com.br/artigos-rh/voce-e-capaz-de-manter-seu-emprego-descubra-sua-empregabilidade/. Acesso em: 28 mar. 2023.</p>
+            <p>BERG, Ernesto. <strong>Você é capaz de manter seu emprego?</strong> Descubra o que é empregabilidade! Rhportal. Disponível em: https://www.rhportal.com.br/artigos-rh/voce-e-capaz-de-manter-seu-emprego-descubra-sua-empregabilidade/. Acesso em: 28 mar. 2023.</p>
 
-            <p>GUIA DO ESTUDANTE. Fazer curso EAD permite crescimento na carreira. Disponível em: https://guiadoestudante.abril.com.br/orientacao-profissional/ead-aquele-upgrade-na-carreira/. Acesso em: 11 jan. 2019.</p>
+            <p>GUIA DO ESTUDANTE. <strong>Fazer curso EAD permite crescimento na carreira.</strong> Disponível em: https://guiadoestudante.abril.com.br/orientacao-profissional/ead-aquele-upgrade-na-carreira/. Acesso em: 11 jan. 2019.</p>
 
-            <p>INFOGEEKIES. Educação Digital: o passo necessário na formação da cidadania (digital). Disponível em: http://info.geekie.com.br/educacao-digital-2/. Acesso em: 11 jan. 2019.</p>
+            <p>ERNESTO, Artur Berg. <strong>35 Testes para Avaliar suas Habilidades Profissionais.</strong> Juruá Editora. 2013</p>
 
-            <p>ISTO É. O profissional que o mercado quer. Disponível em: https://istoe.com.br/196912_O+PROFISSIONAL+QUE+O+MERCADO+QUER/. Acesso em: 11 jan. 2019.</p>
+            <p>INFOGEEKIES. <strong>Educação Digital</strong>: o passo necessário na formação da cidadania (digital). Disponível em: http://info.geekie.com.br/educacao-digital-2/. Acesso em: 11 jan. 2019.</p>
 
-            <p>SILVA, Wellington Souza. Mercado de Trabalho. Disponível em: https://www.infoescola.com/economia/mercado-de-trabalho/. Acesso em: 11 jan. 2019.</p>
+            <p>ISTO É. <strong>O profissional que o mercado quer.</strong> Disponível em: https://istoe.com.br/196912_O+PROFISSIONAL+QUE+O+MERCADO+QUER/. Acesso em: 11 jan. 2019.</p>
 
-            <p>YOUTUBE. Canal GNT. Como a tecnologia está mudando a forma de dar aula. Disponível em: https://www.youtube.com/watch?v=KcEBAnDh-u4. Acesso em: 11 jan. 2019.</p>
+            <p>SILVA, Wellington Souza. <strong>Mercado de Trabalho.</strong> Disponível em: https://www.infoescola.com/economia/mercado-de-trabalho/. Acesso em: 11 jan. 2019.</p>
 
-            <p>YOUTUBE. Fecomercio. SP. A educação na era digital. Disponível em: https://www.youtube.com/watch?v=Eu5S8MBLKWE. Acesso em: 11 jan. 2019.</p>
+            <p>YOUTUBE. Canal GNT. <strong>Como a tecnologia está mudando a forma de dar aula.</strong> Disponível em: https://www.youtube.com/watch?v=KcEBAnDh-u4. Acesso em: 11 jan. 2019.</p>
 
-            <p>YOUTUBE. TEDx Talks. O Profissional do Futuro - Michelle Schneider – TEDxFAAP. Disponível: https://www.youtube.com/watch?v=9G5mS_OKT0A. Acesso em 17 jan. 2019.</p>
+            <p>YOUTUBE. Fecomercio. SP. <strong>A educação na era digital.</strong> Disponível em: https://www.youtube.com/watch?v=Eu5S8MBLKWE. Acesso em: 11 jan. 2019.</p>
+
+            <p>YOUTUBE. TEDx Talks. <strong>O Profissional do Futuro</strong> - Michelle Schneider – TEDxFAAP. Disponível: https://www.youtube.com/watch?v=9G5mS_OKT0A. Acesso em 17 jan. 2019.</p>
         </div>
     
     </div>
