@@ -11,12 +11,12 @@ const creditos = `
           <p><span class="funcao">Diretora Acadêmica</span>Simone Telles Martins Ramos</p>
 
           <h6>Equipe</h6>
-          <p><span class="funcao">Docente responsável</span>Fulano de Tal</p>
           <p><span class="funcao">Coordenação</span>Wesley de Souza Lima</p>
           <p><span class="funcao">Roteirização e Design Instrucional</span>Juliana Quitério Lopez Salvaia</p>
           <p><span class="funcao">Ilustração</span>Pedro Henrique de Almeida Belém</p>
           <p><span class="funcao">Layout</span>Pedro Henrique de Almeida Belém</p>
           <p><span class="funcao">Programação</span>Gabriel Gallo</p>
+          <p><span class="funcao">Revisão</span>Juliana Nascimento Costa</p>
 
         </div>
         <div class="modal-footer">
