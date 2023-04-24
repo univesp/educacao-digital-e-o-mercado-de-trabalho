@@ -118,8 +118,10 @@ hr.end-header{
 .next-button3{
   width: 20%;
   height: 50px;
+  /*
   margin-left: auto;
   margin-right: auto;
+  */
   border: 1px solid #DF5A73;
   background-color: #fff;
   text-transform: uppercase;
@@ -150,6 +152,7 @@ hr.end-header{
 
 .button-container{
   margin-top: 50px;
+  gap: 100px;
   display: flex;
   justify-content: center;
 }

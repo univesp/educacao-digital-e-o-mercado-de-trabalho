@@ -20,7 +20,8 @@ const mainContent = `
             <p>Quando nos referimos às novas formas de comunicação, logo nos vem à mente a Internet. Trata-se de uma rede mundial de computadores, de um espaço de comunicação com o auxílio do qual as pessoas se encontram por redes sociais, interagem, discutem, produzem, compram produtos, vendem e colaboram. No entanto, a Internet é também um ambiente no qual podem ser facilmente encontradas ameaça, calúnia, injúria, difamação e violação de direitos humanos e autorais seja de livros, músicas, filmes, entre outros.​ O fato é que a Internet se tornou um meio essencial para a comunicação contemporânea, muito embora a cada dia seja inventada uma nova tecnologia impactando nossas formas de se comunicar. Em decorrência desses processos dinâmicos, a área da educação muitas vezes se beneficia dessas mudanças.</p>
 
             <div class="button-container">
-             <button class="next-button2" onclick="replace('conteudo2', 'conteudo3')">Avançar</button>
+                <button class="next-button2" onclick="replace('conteudo2', 'conteudo1')">Voltar</button>
+                <button class="next-button2" onclick="replace('conteudo2', 'conteudo3')">Avançar</button>
             </div>
         </div>
 
@@ -42,7 +43,8 @@ const mainContent = `
             <p>A Educação Digital deve atingir não só os jovens estudantes, mas todos os usuários em geral e em todos os aspectos educacionais, proporcionando a aquisição de novos conceitos e conteúdos sobre diversos aspectos que envolvem sua área de estudo.</p>
 
             <div class="button-container">
-             <button class="next-button2" onclick="replace('conteudo3', 'conteudo4')">Avançar</button>
+                <button class="next-button2" onclick="replace('conteudo3', 'conteudo2')">Voltar</button>
+                <button class="next-button2" onclick="replace('conteudo3', 'conteudo4')">Avançar</button>
             </div>
         </div>
 
@@ -62,7 +64,8 @@ const mainContent = `
             <p>Você pode acessar a transcrição clicando <a target="_blank" href="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/transcricoes/1%C2%BA%20Vi%CC%81deo%20-%20Transcric%CC%A7a%CC%83o%20-%20Como%20a%20tecnologia%20esta%CC%81%20mudando%20a%20forma%20de%20dar%20aulas.pdf">aqui</a>.</p>
 
             <div class="button-container">
-             <button class="next-button2" onclick="replace('conteudo4', 'conteudo5')">Avançar</button>
+                <button class="next-button2" onclick="replace('conteudo4', 'conteudo3')">Voltar</button>
+                <button class="next-button2" onclick="replace('conteudo4', 'conteudo5')">Avançar</button>
             </div>
         </div>
 
@@ -82,7 +85,8 @@ const mainContent = `
             <p>Tendo isso em conta, é importante destacar ainda que queremos formar não apenas cidadãos capazes de interagir no mundo digital, ou seja, on-line e off-line, mas que tenham conhecimento do potencial que possuem, que aprendam a utilizar suas qualidades, capacidades e assim construir novas perspectivas profissionais.</p>
 
             <div class="button-container">
-             <button class="next-button2" onclick="replace('conteudo5', 'conteudo6')">Avançar</button>
+                <button class="next-button2" onclick="replace('conteudo5', 'conteudo4')">Voltar</button>
+                <button class="next-button2" onclick="replace('conteudo5', 'conteudo6')">Avançar</button>
             </div>
         </div>
 
@@ -105,6 +109,7 @@ const mainContent = `
         <img class="grafico-img" src="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/assets/grafico.svg" alt="">
 
         <div class="button-container" style="margin-top: -100px">
+            <button class="next-button3" onclick="replace('conteudo6', 'conteudo5')">Voltar</button>
             <button class="next-button3" onclick="replace('conteudo6', 'conteudo7')">Avançar</button>
         </div>
     </div>
@@ -120,7 +125,8 @@ const mainContent = `
             <p>Você pode acessar a transcrição clicando <a target="_blank" href="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/transcricoes/2%C2%BA%20Vi%CC%81deo%20-%20Transcric%CC%A7a%CC%83o%20-%20A%20educac%CC%A7a%CC%83o%20na%20era%20digital.pdf">aqui</a>.</p>
 
             <div class="button-container">
-             <button class="next-button2" onclick="replace('conteudo7', 'conteudo8')">Avançar</button>
+                <button class="next-button2" onclick="replace('conteudo7', 'conteudo6')">Voltar</button>
+                <button class="next-button2" onclick="replace('conteudo7', 'conteudo8')">Avançar</button>
             </div>
         </div>
 
@@ -176,6 +182,7 @@ const mainContent = `
                 <p class="content-conteudo8"><strong>Terciário </strong>- Está relacionado à prestação de serviços, como: bancos, hospitais, escolas, mercados, ou seja, quando o trabalho tem como principal foco de atuação as pessoas e não os objetos.</p>  
                     
                 <div class="button-container">
+                    <button class="next-button2" onclick="replace('conteudo8', 'conteudo7')">Voltar</button>
                     <button class="next-button2" onclick="replace('conteudo8', 'conteudo9')">Avançar</button>
                 </div>
             </div>
@@ -197,6 +204,7 @@ const mainContent = `
         </div>
 
         <div class="button-container" >
+            <button class="next-button3" onclick="replace('conteudo9', 'conteudo8')">Voltar</button>
             <button class="next-button3" onclick="replace('conteudo9', 'conteudo10')">Avançar</button>
         </div>
     </div>
@@ -469,6 +477,7 @@ const mainContent = `
 
 
         <div class="button-container" >
+            <button class="next-button3" onclick="replace('conteudo10', 'conteudo9')">Voltar</button>
             <button class="next-button3" onclick="replace('conteudo10', 'conteudo11')">Avançar</button>
         </div>
     </div>
@@ -484,7 +493,8 @@ const mainContent = `
             <p>Você pode acessar a transcrição clicando <a target="_blank" href="https://apps.univesp.br/educacao-digital-e-o-mercado-de-trabalho/transcricoes/3%C2%BA%20Vi%CC%81deo%20-%20Transcric%CC%A7a%CC%83o%20-%20O%20Profissional%20do%20Futuro.pdf">aqui</a>.</p>
 
             <div class="button-container">
-             <button class="next-button2" onclick="replace('conteudo11', 'testeFinal')">Avançar</button>
+                <button class="next-button2" onclick="replace('conteudo11', 'conteudo10')">Voltar</button>
+                <button class="next-button2" onclick="replace('conteudo11', 'testeFinal')">Avançar</button>
             </div>
         </div>
 
@@ -1020,7 +1030,10 @@ const mainContent = `
         
         </div>
 
-        <button class="button-teste" onclick="verifica()">Gerar Pontuação</button>
+        <div class="botoes-teste-container" style="margin-top: 50px;">
+            <button class="next-button" onclick="replace('testeFinal', 'conteudo11')">Voltar</button>
+            <button style="margin-top: 0px;" class="button-teste" onclick="verifica()">Gerar Pontuação</button>
+        </div>
 
         <div class="devolucao-teste" id="resultadoTeste" style="display: none;">
 
@@ -1065,6 +1078,7 @@ const mainContent = `
             <p>Esperamos que tenha gostado e que o conteúdo apresentando tenha sido útil. </p>
         </div>
 
+        <button class="next-button" onclick="voltarFimRea('fimRea', 'referenciasRea', 'testeFinal')">Voltar</button>
         <button class="next-button" onclick="reiniciaREA()">Início</button>
         
     </div>

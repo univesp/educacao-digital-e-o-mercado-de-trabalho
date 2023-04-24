@@ -69,6 +69,16 @@ $(document).ready(function(){
       behavior: 'smooth'
     });
   }
+  function voltarFimRea( hide, hide2, show ){
+    document.getElementById(hide).style.display = "none";
+    document.getElementById(hide2).style.display = "none";
+    document.getElementById(show).style.display = "flex";
+
+    window.scrollTo({
+      top: 400,
+      behavior: 'smooth'
+    });
+  }
 
   function reiniciaREA(){
     document.location.reload();
